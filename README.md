@@ -478,13 +478,13 @@ Focus on applying Rust to a specific professional domain, such as web services, 
 
 - [**Zero To Production In Rust**](https://drive.google.com/file/d/1xOHEXyd3dF3e2MlfRVBSQ2P09gsr-ZIt/view?usp=drive_link) (*1st Edition*)
     - The definitive guide to building robust, production-ready backend web services in Rust.
-- [**The Embedded Rust Book**](PDF_LINK) (*Online Resource*)
+- [**The Embedded Rust Book**](https://drive.google.com/file/d/1nskPjDJBUesrfDuWp49In7DfFTFxDxoX/view?usp=sharing) (*Online Resource*)
     - The official, free online book for learning how to use Rust for bare-metal and embedded development.
-- [**Rust Web development**](PDF_LINK) (*2nd Edition*)
+- [**Rust Web development**](https://drive.google.com/file/d/1HuYUELERFfoNpuyAf6oWxzd3WX_MkSNa/view?usp=sharing) (*2nd Edition*)
     - A comprehensive guide to building full-stack web applications, covering backend frameworks like Actix and frontend with WebAssembly.
-- [**Game Development with Rust**](PDF_LINK) (*1st Edition*)
+- [**Game Development with Rust**](https://drive.google.com/file/d/1ymZXvXOycCZJDJMLURXKSdc4QF8CbPFX/view?usp=sharing) (*1st Edition*)
     - A practical guide to building games in Rust, covering 2D, 3D, and the Bevy game engine.
-- [**Hands-On Data Structures and Algorithms with Rust**](PDF_LINK) (*2nd Edition*)
+- [**Hands-On Data Structures and Algorithms with Rust**](https://drive.google.com/file/d/15bDvvz9Vu4Wo6tkfkai1bR37AYLW3XC5/view?usp=sharing) (*2nd Edition*)
     - A practical guide to implementing fundamental data structures and algorithms, helping you write efficient and performant Rust code.
 
 
@@ -494,15 +494,79 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
 
 - [**The Cargo Book**](https://doc.rust-lang.org/cargo/) (*Online Resource*)
     - The official guide to Cargo, Rust's build system and package manager. Essential for managing any non-trivial project.
-- [**Idiomatic Rust**](PDF_LINK) (*1st Edition*)
+- [**Idiomatic Rust**](https://drive.google.com/file/d/1OHEm3A2ydVj1g6gqwB6mCcJOeJNQGTWW/view?usp=sharing) (*1st Edition*)
     - A concise O'Reilly quick-reference for the Rust language, syntax, and standard library.
 - [**Effective Rust**](https://www.lurklurk.org/effective-rust/) (*1st Edition*)
     - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
 
 ### 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20"/> PHP
-- [PHP & MySQL: Novice to Ninja (Beginner)](PDF_LINK)
-- [Modern PHP (Intermediate)](PDF_LINK)
-- [PHP Objects, Patterns, and Practice (Advanced)](PDF_LINK)
+
+## For Beginners
+
+These books are for newcomers to PHP and provide a solid foundation in web development, basic syntax, and how to interact with databases.
+
+- [**Head First PHP & MySQL**](LINK) (*1st Edition*)
+    - A visually rich O'Reilly guide that uses a brain-friendly approach to teach you how to build dynamic, database-driven websites. It’s perfect for those who find traditional textbooks dry.
+- [**Learning PHP, MySQL & JavaScript**](LINK) (*6th Edition*)
+    - The definitive O'Reilly starter guide for web development. It covers the "Big Three" technologies required to build modern, interactive websites from scratch.
+- [**PHP & MySQL: Novice to Ninja**](LINK) (*7th Edition*)
+    - A highly practical, step-by-step guide that walks you through building a real-world application while teaching best practices along the way.
+- [**The Joy of PHP**](LINK) (*1st Edition*)
+    - A gentle introduction designed for absolute beginners that starts with basic HTML and eases into PHP coding logic without overwhelming the reader.
+
+
+## For Intermediate Developers
+
+These books will help you bridge the gap between writing simple scripts and building robust, professional-grade web applications.
+
+- [**PHP and MySQL Web Development**](LINK) (*5th Edition*)
+    - Often considered the "Bible" of PHP development. It provides a comprehensive look at how to use PHP and MySQL together to build large-scale, real-world projects.
+- [**PHP & MySQL: The Missing Manual**](LINK) (*2nd Edition*)
+    - An O'Reilly classic that fills in the gaps left by other tutorials, focusing on how to manage data, handle cookies/sessions, and build user-friendly interfaces.
+- [**Murach's PHP and MySQL**](LINK) (*4th Edition*)
+    - Known for its unique "paired pages" format, this book is excellent for developers who want to see code examples on one page and clear explanations on the next.
+- [**PHP 8 Programming Blueprints**](LINK) (*2nd Edition*)
+    - A project-based book that helps you apply your intermediate knowledge to build practical applications like a social media site or a search engine.
+
+
+## For Advanced Programmers
+
+Dive deep into the internals of the language, object-oriented design, and the latest standards in the PHP ecosystem.
+
+- [**Modern PHP: New Features and Good Practices**](LINK) (*1st Edition*)
+    - An essential O'Reilly book by Josh Lockhart. It covers the "new" way of writing PHP, including namespaces, traits, and the PSR standards that define professional PHP today.
+- [**PHP Objects, Patterns, and Practice**](LINK) (*6th Edition*)
+    - The definitive guide to Object-Oriented Programming (OOP) and Design Patterns in PHP. Critical reading for anyone looking to architect complex, scalable systems.
+- [**Programming PHP**](LINK) (*4th Edition*)
+    - Co-authored by Rasmus Lerdorf (the creator of PHP), this O'Reilly book is the most authoritative reference on the language's core syntax and functions.
+- [**PHP Cookbook**](LINK) (*4th Edition*)
+    - A massive collection of practical "recipes" for solving specific, high-level problems. Perfect for advanced developers who need quick, proven solutions for complex tasks.
+
+
+## For Specialized Fields
+
+Focus on applying PHP to specific professional domains, such as modern frameworks, API development, or architecture.
+
+- [**Laravel: Up & Running**](LINK) (*3rd Edition*)
+    - The definitive O'Reilly guide to the most popular PHP framework in the world. It provides a high-level overview of how to build applications using the Laravel ecosystem.
+- [**Symfony 6: The Fast Track**](LINK) (*1st Edition*)
+    - Written by the creator of Symfony, this book teaches you how to build a modern application from start to finish using the framework that powers many high-end PHP projects.
+- [**Domain-Driven Design in PHP**](LINK) (*1st Edition*)
+    - For developers who want to master complex business logic. It focuses on applying DDD principles to PHP to create highly maintainable and robust software.
+- [**Building Microservices with PHP**](LINK) (*1st Edition*)
+    - An O'Reilly guide focused on breaking down monoliths into smaller, manageable services and handling data exchange in modern distributed environments.
+
+
+## Comprehensive References
+
+These guides are perfect for quick lookups, staying current with best practices, and understanding the PHP ecosystem.
+
+- [**PHP: The Right Way**](https://phptherightway.com/) (*Online Resource*)
+    - An industry-standard, living document that provides a quick reference for best practices and accepted coding standards in the modern PHP community.
+- [**The PHP Manual**](https://www.php.net/manual/en/) (*Online Resource*)
+    - The official documentation. It remains the most accurate and detailed reference for every function and class within the language.
+- [**PHP 8 Quick Scripting Reference**](LINK) (*3rd Edition*)
+    - A condensed, code-heavy guide that serves as a perfect desk reference for syntax and quick lookups without any unnecessary fluff.
 
 ### 9. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> TypeScript
 - [Pro TypeScript: Application-Scale JavaScript Development (Beginner)](PDF_LINK)
