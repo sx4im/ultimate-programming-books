@@ -359,11 +359,11 @@ These guides are perfect for quick lookups and as detailed companions throughout
 
 These books are for newcomers to TypeScript and provide a solid foundation in how it layers on top of JavaScript to add type safety and better developer ergonomics.
 
-- [**Learning TypeScript**](LINK) (*1st Edition*)
+- [**Learning TypeScript**](https://drive.google.com/file/d/1RB5XMfQEVhfjNPNw6yxpLHwSlSfmnbY5/view?usp=sharing) (*1st Edition*)
     - The gold standard for beginners. It explains the "why" and "how" of TypeScript without assuming you are already an expert in JavaScript. It covers the type system, classes, and fundamental syntax.
-- [**TypeScript Quickly**](LINK) (*1st Edition*)
+- [**TypeScript Quickly**](https://drive.google.com/file/d/11KxULpStEskCTr4FJszGUx9qV1TY4AOw/view?usp=sharing) (*1st Edition*)
     - A very practical entry point that includes several small projects. It’s great for those who want to see TypeScript in action immediately with web frameworks.
-- [**Essential TypeScript 5**](LINK) (*3rd Edition*)
+- [**Essential TypeScript 5**](https://drive.google.com/file/d/1EMmIEPtq4WN03-jd93kz6qhwiYk0vOQe/view?usp=sharing) (*3rd Edition*)
     - A comprehensive, clear guide that walks you through the entire language. It’s particularly good for developers coming from other C-style languages like Java or C#.
 - [**The TypeScript Handbook**](https://www.typescriptlang.org/docs/handbook/intro.html) (*Online Resource*)
     - The official guide from the Microsoft team. It is incredibly well-written and remains the most up-to-date starting point for any new learner.
@@ -373,12 +373,12 @@ These books are for newcomers to TypeScript and provide a solid foundation in ho
 
 These books will help you bridge the gap between "writing code that compiles" and "writing idiomatic, scalable TypeScript."
 
-- [**Effective TypeScript**](LINK)
+- [**Effective TypeScript**](https://drive.google.com/file/d/1X4Nyrf-xnGUteyVhvu-_-K-X1o_6r9UW/view?usp=sharing)
     - Essential reading. This book provides 83 specific ways to improve your TypeScript. It focuses on the "Item" format (e.g., "Item 1: Understand the Relationship Between TypeScript and JavaScript") to give you actionable advice.
-- [**Programming TypeScript**](LINK) (*1st Edition*)
+- [**Programming TypeScript**](https://drive.google.com/file/d/1fVWQSsrgFPqdWboebSLCBmLwG0f-WAW3/view?usp=sharing) (*1st Edition*)
     - **Author:** Boris Cherny (O'Reilly)
     - A deeper dive into the type system. This book teaches you how to use TypeScript’s more sophisticated features to write code that is not just type-safe, but genuinely elegant.
-- [**Mastering TypeScript**](LINK) (*4th Edition*)
+- [**Mastering TypeScript**](https://drive.google.com/file/d/1gGTqSjyMasbC5AtV6qPf8-upEVGNh3L-/view?usp=sharing) (*4th Edition*)
     - Focused on real-world application. This book helps you understand how to integrate TypeScript into existing projects and how to build large-scale applications with confidence.
 
 
@@ -386,11 +386,11 @@ These books will help you bridge the gap between "writing code that compiles" an
 
 Dive deep into the most complex aspects of the type system, including conditional types, mapped types, and advanced compiler configurations.
 
-- [**Tackling TypeScript**](LINK) (*1st Edition*)
+- [**Tackling TypeScript**](https://drive.google.com/file/d/1zagInA-YXWuNuWpwryNPrxZ-X5bPo5VV/view?usp=sharing) (*1st Edition*)
     - Written by one of the most respected educators in the JS/TS ecosystem. It goes very deep into the internals of the language and is updated regularly to reflect the latest ECMAScript and TypeScript features.
-- [**Advanced TypeScript Programming Projects**](LINK) (*1st Edition*)
+- [**Advanced TypeScript Programming Projects**](https://drive.google.com/file/d/1hkPnebqoCNfPBg3OvfyZ_xJeHP0nvsf5/view?usp=sharing) (*1st Edition*)
     - A project-driven guide for experts. You will build a variety of complex tools (like a Trello clone or a photo gallery) to see how advanced types hold up in large architectures.
-- [**TypeScript Design Patterns**](LINK) (*1st Edition*)
+- [**TypeScript Design Patterns**](https://drive.google.com/file/d/15QfYUiO4bClWPa0jlOBSxAYwxZZyKK9J/view?usp=sharing) (*1st Edition*)
     - Explores how classic GoF design patterns apply to TypeScript’s unique structure, helping you architect systems that are maintainable and robust.
 
 
@@ -398,13 +398,13 @@ Dive deep into the most complex aspects of the type system, including conditiona
 
 Focus on applying TypeScript to specific professional domains, such as React development, Node.js backend services, or Angular architecture.
 
-- [**Fullstack React with TypeScript**](LINK) (*1st Edition*)
+- [**Fullstack React with TypeScript**](https://drive.google.com/file/d/1sfINkiFKuVGmRKIP6YvV3bCA6CutZ2mM/view?usp=sharing) (*1st Edition*)
     - The definitive guide for frontend developers. It covers everything from basic components to complex state management and testing using TypeScript within the React ecosystem.
-- [**Node.js Design Patterns**](LINK) (*3rd Edition*)
+- [**Node.js Design Patterns**](https://drive.google.com/file/d/1VALBli8K9_ZPgfnoRfDzhocIcbvmpPPz/view?usp=sharing) (*3rd Edition*)
     - The backend gold standard. This edition is written with TypeScript in mind, teaching you how to build production-grade backends using asynchronous flows and architectural patterns.
-- [**Angular Development with TypeScript**](LINK) (*2nd Edition*)
+- [**Angular Development with TypeScript**](https://drive.google.com/file/d/1JiDMygUGpuLIpGjeLE9e1VI6MMWkB7V3/view?usp=sharing) (*2nd Edition*)
     - A specialized guide for building SPAs. It focuses on using TypeScript's features—like decorators and types—to master the Angular framework's dependency injection and component model.
-- [**Pro Angular**](LINK) (*5th Edition*)
+- [**Pro Angular**](https://drive.google.com/file/d/11-QJl9cDqXap-qBlkAvu6NBfh5iBCzPz/view?usp=sharing) (*5th Edition*)
     - Since Angular is built entirely on TypeScript, this book is essential for anyone specializing in enterprise-grade frontend development and large-scale state management.
 
 
