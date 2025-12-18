@@ -575,13 +575,13 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
 
 These books are for newcomers to PHP and provide a solid foundation in web development, basic syntax, and how to interact with databases.
 
-- [**Head First PHP & MySQL**](LINK) (*1st Edition*)
+- [**Head First PHP & MySQL**](https://drive.google.com/file/d/1lQZk9_XSGOL02j07qV8_oS6B_ptCORNz/view?usp=sharing) (*1st Edition*)
     - A visually rich O'Reilly guide that uses a brain-friendly approach to teach you how to build dynamic, database-driven websites. It’s perfect for those who find traditional textbooks dry.
-- [**Learning PHP, MySQL & JavaScript**](LINK) (*6th Edition*)
+- [**Learning PHP, MySQL & JavaScript**](https://drive.google.com/file/d/12o-Gt5jkbtXeyYP7W3qeI5gQndEGs1bW/view?usp=sharing) (*6th Edition*)
     - The definitive O'Reilly starter guide for web development. It covers the "Big Three" technologies required to build modern, interactive websites from scratch.
-- [**PHP & MySQL: Novice to Ninja**](LINK) (*7th Edition*)
+- [**PHP & MySQL: Novice to Ninja**](https://drive.google.com/file/d/1FeEo2YfTU67lcftMqFfvpzkzCM7-3TXV/view?usp=sharing) (*7th Edition*)
     - A highly practical, step-by-step guide that walks you through building a real-world application while teaching best practices along the way.
-- [**The Joy of PHP**](LINK)
+- [**The Joy of PHP**](https://drive.google.com/file/d/1Zbkizlda3f_oeW6JyTyj7NbURrcVo3Ha/view?usp=sharing)
     - A gentle introduction designed for absolute beginners that starts with basic HTML and eases into PHP coding logic without overwhelming the reader.
 
 
@@ -589,13 +589,13 @@ These books are for newcomers to PHP and provide a solid foundation in web devel
 
 These books will help you bridge the gap between writing simple scripts and building robust, professional-grade web applications.
 
-- [**PHP and MySQL Web Development**](LINK) (*5th Edition*)
+- [**PHP and MySQL Web Development**](https://drive.google.com/file/d/1yYGg0c5W4Sa4YZU9IKlDOuW-4jMZhoyK/view?usp=sharing) (*5th Edition*)
     - Often considered the "Bible" of PHP development. It provides a comprehensive look at how to use PHP and MySQL together to build large-scale, real-world projects.
-- [**PHP & MySQL: The Missing Manual**](LINK) (*1st Edition*)
+- [**PHP & MySQL: The Missing Manual**](https://drive.google.com/file/d/1RxQg2J9yWvvQQeLqhMuIfexvHvBowM6Q/view?usp=sharing) (*1st Edition*)
     - An O'Reilly classic that fills in the gaps left by other tutorials, focusing on how to manage data, handle cookies/sessions, and build user-friendly interfaces.
-- [**Murach's PHP and MySQL**](LINK) (*3rd Edition*)
+- [**Murach's PHP and MySQL**](https://drive.google.com/file/d/1cwLVkDlilXhaEMqxN7xh7f8jOQWQVMKB/view?usp=sharing) (*3rd Edition*)
     - Known for its unique "paired pages" format, this book is excellent for developers who want to see code examples on one page and clear explanations on the next.
-- [**PHP 8 Programming Tips, Tricks and Best Practices**](LINK) (*2nd Edition*)
+- [**PHP 8 Programming Tips, Tricks and Best Practices**](https://drive.google.com/file/d/1u0DYotU0oK7Kq5S18YwoadenEYeC_omH/view?usp=sharing) (*2nd Edition*)
     - A project-based book that helps you apply your intermediate knowledge to build practical applications like a social media site or a search engine.
 
 
@@ -603,13 +603,13 @@ These books will help you bridge the gap between writing simple scripts and buil
 
 Dive deep into the internals of the language, object-oriented design, and the latest standards in the PHP ecosystem.
 
-- [**Modern PHP: New Features and Good Practices**](LINK) (*1st Edition*)
+- [**Modern PHP: New Features and Good Practices**](https://drive.google.com/file/d/1PPlh7FNTHNbzqFos8PNU3FZdffva83_x/view?usp=sharing) (*1st Edition*)
     - An essential O'Reilly book by Josh Lockhart. It covers the "new" way of writing PHP, including namespaces, traits, and the PSR standards that define professional PHP today.
-- [**PHP 8 Objects, Patterns, and Practice**](LINK) (*6th Edition*)
+- [**PHP 8 Objects, Patterns, and Practice**](https://drive.google.com/file/d/1YBm7Kqe3dMt2lYVo6crM--ngAIrIsyN_/view?usp=sharing) (*6th Edition*)
     - The definitive guide to Object-Oriented Programming (OOP) and Design Patterns in PHP. Critical reading for anyone looking to architect complex, scalable systems.
-- [**Programming PHP**](LINK) (*4th Edition*)
+- [**Programming PHP**](https://drive.google.com/file/d/1QM5qKPJUzocK7qQU3rQ2sXM5eax89MVv/view?usp=sharing) (*4th Edition*)
     - Co-authored by Rasmus Lerdorf (the creator of PHP), this O'Reilly book is the most authoritative reference on the language's core syntax and functions.
-- [**PHP Cookbook**](LINK) (*3rd Edition*)
+- [**PHP Cookbook**](https://drive.google.com/file/d/1TTer2qoYmjWDS10QNSM0j4hRmWJEJouz/view?usp=sharing) (*3rd Edition*)
     - A massive collection of practical "recipes" for solving specific, high-level problems. Perfect for advanced developers who need quick, proven solutions for complex tasks.
 
 
@@ -617,13 +617,13 @@ Dive deep into the internals of the language, object-oriented design, and the la
 
 Focus on applying PHP to specific professional domains, such as modern frameworks, API development, or architecture.
 
-- [**Laravel: Up & Running**](LINK) (*3rd Edition*)
+- [**Laravel: Up & Running**](https://drive.google.com/file/d/1kea0S1ZmoKJ63gT9Fyxja5JUVMGQSPFJ/view?usp=sharing) (*3rd Edition*)
     - The definitive O'Reilly guide to the most popular PHP framework in the world. It provides a high-level overview of how to build applications using the Laravel ecosystem.
-- [**Symfony 5: The Fast Track**](LINK) 
+- [**Symfony 5: The Fast Track**](https://drive.google.com/file/d/16FeRUJSoMm6-JrHKnBQfQXrwyfR3e13c/view?usp=sharing) 
     - Written by the creator of Symfony, this book teaches you how to build a modern application from start to finish using the framework that powers many high-end PHP projects.
-- [**Domain-Driven Design in PHP**](LINK)
+- [**Domain-Driven Design in PHP**](https://drive.google.com/file/d/1f4uijRCkTlFuSsOK9hg1hfrH6Io1hk0F/view?usp=sharing)
     - For developers who want to master complex business logic. It focuses on applying DDD principles to PHP to create highly maintainable and robust software.
-- [**PHP Web Services**](LINK) (*1st Edition*)
+- [**PHP Web Services**](https://drive.google.com/file/d/1VBLnZgoBlisNfH4jMhSo8GWwDPGScfZM/view?usp=sharing) (*1st Edition*)
     - A true O'Reilly guide focused on building and consuming APIs. It covers the essential theory and practice of creating robust web services in PHP.
 
 
@@ -635,7 +635,7 @@ These guides are perfect for quick lookups, staying current with best practices,
     - An industry-standard, living document that provides a quick reference for best practices and accepted coding standards in the modern PHP community.
 - [**The PHP Manual**](https://www.php.net/manual/en/) (*Online Resource*)
     - The official documentation. It remains the most accurate and detailed reference for every function and class within the language.
-- [**PHP 8 Quick Scripting Reference**](LINK) (*3rd Edition*)
+- [**PHP 8 Quick Scripting Reference**](https://drive.google.com/file/d/1plFybWhVvACeMgufK65FA5Rb6asoSefw/view?usp=sharing) (*3rd Edition*)
     - A condensed, code-heavy guide that serves as a perfect desk reference for syntax and quick lookups without any unnecessary fluff.
 
 ---
