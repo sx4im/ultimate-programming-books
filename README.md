@@ -499,7 +499,10 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
 - [**Effective Rust**](https://www.lurklurk.org/effective-rust/) (*1st Edition*)
     - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
 
-### 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20"/> PHP
+---
+
+
+### 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/> PHP
 
 ## For Beginners
 
@@ -567,6 +570,8 @@ These guides are perfect for quick lookups, staying current with best practices,
     - The official documentation. It remains the most accurate and detailed reference for every function and class within the language.
 - [**PHP 8 Quick Scripting Reference**](LINK) (*3rd Edition*)
     - A condensed, code-heavy guide that serves as a perfect desk reference for syntax and quick lookups without any unnecessary fluff.
+
+---
 
 ### 9. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> TypeScript
 - [Pro TypeScript: Application-Scale JavaScript Development (Beginner)](PDF_LINK)
