@@ -353,8 +353,13 @@ These guides are perfect for quick lookups and as detailed companions throughout
 
 ---
 
+# 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/> TypeScript
+- [Pro TypeScript: Application-Scale JavaScript Development (Beginner)](PDF_LINK)
+- [Effective TypeScript (Intermediate)](PDF_LINK)
+- [Programming TypeScript (Advanced)](PDF_LINK)
 
-# 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
+
+# 7. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
 
 ## For Beginners
 
@@ -426,7 +431,7 @@ The official documentation is paramount, but these books provide excellent refer
 ---
 
 
-# 7.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" /> Rust
+# 8.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" /> Rust
 
 ## For Beginners
 
@@ -502,7 +507,7 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
 ---
 
 
-### 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/> PHP
+# 9. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/> PHP
 
 ## For Beginners
 
@@ -514,7 +519,7 @@ These books are for newcomers to PHP and provide a solid foundation in web devel
     - The definitive O'Reilly starter guide for web development. It covers the "Big Three" technologies required to build modern, interactive websites from scratch.
 - [**PHP & MySQL: Novice to Ninja**](LINK) (*7th Edition*)
     - A highly practical, step-by-step guide that walks you through building a real-world application while teaching best practices along the way.
-- [**The Joy of PHP**](LINK) (*1st Edition*)
+- [**The Joy of PHP**](LINK)
     - A gentle introduction designed for absolute beginners that starts with basic HTML and eases into PHP coding logic without overwhelming the reader.
 
 
@@ -524,11 +529,11 @@ These books will help you bridge the gap between writing simple scripts and buil
 
 - [**PHP and MySQL Web Development**](LINK) (*5th Edition*)
     - Often considered the "Bible" of PHP development. It provides a comprehensive look at how to use PHP and MySQL together to build large-scale, real-world projects.
-- [**PHP & MySQL: The Missing Manual**](LINK) (*2nd Edition*)
+- [**PHP & MySQL: The Missing Manual**](LINK) (*1st Edition*)
     - An O'Reilly classic that fills in the gaps left by other tutorials, focusing on how to manage data, handle cookies/sessions, and build user-friendly interfaces.
-- [**Murach's PHP and MySQL**](LINK) (*4th Edition*)
+- [**Murach's PHP and MySQL**](LINK) (*3rd Edition*)
     - Known for its unique "paired pages" format, this book is excellent for developers who want to see code examples on one page and clear explanations on the next.
-- [**PHP 8 Programming Blueprints**](LINK) (*2nd Edition*)
+- [**PHP 8 Programming Tips, Tricks and Best Practices**](LINK) (*2nd Edition*)
     - A project-based book that helps you apply your intermediate knowledge to build practical applications like a social media site or a search engine.
 
 
@@ -538,11 +543,11 @@ Dive deep into the internals of the language, object-oriented design, and the la
 
 - [**Modern PHP: New Features and Good Practices**](LINK) (*1st Edition*)
     - An essential O'Reilly book by Josh Lockhart. It covers the "new" way of writing PHP, including namespaces, traits, and the PSR standards that define professional PHP today.
-- [**PHP Objects, Patterns, and Practice**](LINK) (*6th Edition*)
+- [**PHP 8 Objects, Patterns, and Practice**](LINK) (*6th Edition*)
     - The definitive guide to Object-Oriented Programming (OOP) and Design Patterns in PHP. Critical reading for anyone looking to architect complex, scalable systems.
 - [**Programming PHP**](LINK) (*4th Edition*)
     - Co-authored by Rasmus Lerdorf (the creator of PHP), this O'Reilly book is the most authoritative reference on the language's core syntax and functions.
-- [**PHP Cookbook**](LINK) (*4th Edition*)
+- [**PHP Cookbook**](LINK) (*3rd Edition*)
     - A massive collection of practical "recipes" for solving specific, high-level problems. Perfect for advanced developers who need quick, proven solutions for complex tasks.
 
 
@@ -552,12 +557,12 @@ Focus on applying PHP to specific professional domains, such as modern framework
 
 - [**Laravel: Up & Running**](LINK) (*3rd Edition*)
     - The definitive O'Reilly guide to the most popular PHP framework in the world. It provides a high-level overview of how to build applications using the Laravel ecosystem.
-- [**Symfony 6: The Fast Track**](LINK) (*1st Edition*)
+- [**Symfony 5: The Fast Track**](LINK) 
     - Written by the creator of Symfony, this book teaches you how to build a modern application from start to finish using the framework that powers many high-end PHP projects.
-- [**Domain-Driven Design in PHP**](LINK) (*1st Edition*)
+- [**Domain-Driven Design in PHP**](LINK)
     - For developers who want to master complex business logic. It focuses on applying DDD principles to PHP to create highly maintainable and robust software.
-- [**Building Microservices with PHP**](LINK) (*1st Edition*)
-    - An O'Reilly guide focused on breaking down monoliths into smaller, manageable services and handling data exchange in modern distributed environments.
+- [**PHP Web Services**](LINK) (*1st Edition*)
+    - A true O'Reilly guide focused on building and consuming APIs. It covers the essential theory and practice of creating robust web services in PHP.
 
 
 ## Comprehensive References
@@ -573,10 +578,6 @@ These guides are perfect for quick lookups, staying current with best practices,
 
 ---
 
-### 9. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> TypeScript
-- [Pro TypeScript: Application-Scale JavaScript Development (Beginner)](PDF_LINK)
-- [Effective TypeScript (Intermediate)](PDF_LINK)
-- [Programming TypeScript (Advanced)](PDF_LINK)
 
 ### 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20"/> Kotlin
 - [Kotlin Programming: The Big Nerd Ranch Guide (Beginner)](PDF_LINK)
