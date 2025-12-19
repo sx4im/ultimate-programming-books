@@ -714,15 +714,15 @@ These guides are perfect for quick lookups and staying current with the JetBrain
 
 These books provide a solid foundation in relational database concepts, SQL syntax, and basic data manipulation.
 
-- [**SQL Practice Problems**](LINK) (*1st Edition*)
+- [**SQL Practice Problems**](https://drive.google.com/file/d/1MmueOnIX6JhxxeWH6J4XiSsfaKMan7vq/view?usp=sharing) (*1st Edition*)
     - A highly recommended, hands-on workbook. Instead of just reading theory, you learn by solving 57 real-world problems. It is arguably the best way to get comfortable with the language quickly.
-- [**Head First SQL**](LINK) (*2nd Edition*)
+- [**Head First SQL**](https://drive.google.com/file/d/1G5bM0feeTbCIcdKKwGB3fz2imQZZewtu/view?usp=sharing) (*2nd Edition*)
     - A visually rich introduction to SQL. It uses the "Head First" style to teach you how to create tables, run queries, and understand database constraints in a brain-friendly way.
-- [**SQL in 10 Minutes, Sams Teach Yourself**](LINK) (*5th Edition*)
+- [**SQL in 10 Minutes, Sams Teach Yourself**](https://drive.google.com/file/d/1Tsj_yl20Wyv8NUmpZOJrAXrlLYJ7HiJs/view?usp=sharing) (*5th Edition*)
     - A concise, fast-paced guide that focuses on the most important 20% of SQL that you will use 80% of the time. Perfect for professionals who need to learn the basics in a weekend.
-- [**Learning SQL**](LINK) (*3rd Edition*)
+- [**Learning SQL**](https://drive.google.com/file/d/1qIBYWckJF8exoJz5iOrAEpiBFN8pZX94/view?usp=sharing) (*3rd Edition*)
     - A classic O'Reilly starter guide. It provides a broad overview of SQL syntax and relational database theory, using MySQL as the primary teaching tool.
-- [**Getting Started with SQL**](LINK) (*1st Edition*)
+- [**Getting Started with SQL**](https://drive.google.com/file/d/1fWgvSQ6lDrIk26hAapJbQyry-amNoaLl/view?usp=sharing) (*1st Edition*)
     - A very short, accessible guide for absolute beginners who want to learn how to retrieve and filter data without getting bogged down in database administration.
 
 
@@ -730,13 +730,13 @@ These books provide a solid foundation in relational database concepts, SQL synt
 
 Move beyond simple `SELECT` statements to master complex joins, subqueries, window functions, and database design.
 
-- [**SQL for Smarties: Advanced T-SQL Recipes**](LINK) (*5th Edition*)
+- [**SQL for Smarties: Advanced T-SQL Recipes**](https://drive.google.com/file/d/1YxLgh7S3f4MqmvTvJP-_AZz5SRfodDrn/view?usp=sharing) (*5th Edition*)
     - Joe Celko is a legend in the SQL world. This book focuses on thinking in "sets" rather than procedural logic. It is a must-read for anyone wanting to write professional-grade SQL.
-- [**SQL Queries for Mere Mortals**](LINK) (*4th Edition*)
+- [**SQL Queries for Mere Mortals**](https://drive.google.com/file/d/19vcGtL3q4qm3WFniMcfz-H4rhWgOUdwY/view?usp=sharing) (*4th Edition*)
     - A massive, comprehensive guide to writing complex queries. It focuses on the logic behind the queries, making it language-agnostic across PostgreSQL, SQL Server, and MySQL.
-- [**Practical SQL: A Beginner's Guide to Storytelling with Data**](LINK) (*2nd Edition*)
+- [**Practical SQL: A Beginner's Guide to Storytelling with Data**](https://drive.google.com/file/d/1d1-XRfySmTABbZSGkq_CLQ99_pEFU9py/view?usp=sharing) (*2nd Edition*)
     - A fantastic book for data analysts. It uses PostgreSQL to teach you how to analyze real-world datasets, including census data and crime statistics.
-- [**Database Design for Mere Mortals**](LINK) (*3rd Edition*)
+- [**Database Design for Mere Mortals**](https://drive.google.com/file/d/1SfNM079EEvW0V0x7NkCNfiXhmL7OB8nc/view?usp=sharing) (*3rd Edition*)
     - While not strictly a "coding" book, it is the definitive guide to designing relational databases correctly so that your SQL queries remain efficient and easy to write.
 
 
@@ -744,13 +744,13 @@ Move beyond simple `SELECT` statements to master complex joins, subqueries, wind
 
 Deep dives into query optimization, internal architecture, and high-performance tuning.
 
-- [**SQL Performance Explained**](LINK) (*1st Edition*)
+- [**SQL Performance Explained**](https://drive.google.com/file/d/1FjsCUIbUdjyMb2WFK3AR1O99Rmoo53UF/view?usp=sharing) (*1st Edition*)
     - The best book available on indexing and performance. It explains exactly how the database engine finds data and how you can write queries that don't crawl under heavy loads.
-- [**The Art of SQL**](LINK) (*1st Edition*)
+- [**The Art of SQL**](https://drive.google.com/file/d/19KABSaDvd7Ej6mfesMIENM6lI3k7JvEo/view?usp=sharing) (*1st Edition*)
     - Focuses on the "craft" of SQL. It treats SQL as an art form, teaching you how to architect your data access layer for maximum scalability and maintainability.
-- [**Joe Celko’s SQL Puzzles and Answers**](LINK) (*2nd Edition*)
+- [**Joe Celko’s SQL Puzzles and Answers**](https://drive.google.com/file/d/1kSS5vaesEfSC_8h-GWKrDioCt3Z7SQiw/view?usp=sharing) (*2nd Edition*)
     - A collection of extremely difficult SQL challenges. This is the book you read when you think you know everything about SQL and want to be humbled by complex logic problems.
-- [**High Performance MySQL**](LINK) (*4th Edition*)
+- [**High Performance MySQL**](https://drive.google.com/file/d/1R0WNNGWYQ-7hZveORwVSl9IdmIl1PoSr/view?usp=sharing) (*4th Edition*)
     - **Authors:** Silvia Botros and Jeremy Tinley (O'Reilly)
     - The definitive guide for anyone working with MySQL at scale. It covers everything from replication and load balancing to advanced query optimization.
 
@@ -759,23 +759,23 @@ Deep dives into query optimization, internal architecture, and high-performance 
 
 SQL as applied to modern big data environments, analytics, and software architecture.
 
-- [**SQL for Data Analysis**](LINK) (*1st Edition*)
+- [**SQL for Data Analysis**](https://drive.google.com/file/d/12o_0nw12yTdu1WLkae2jtT_X2DOMTO0F/view?usp=sharing) (*1st Edition*)
     - **Author:** Cathy Tanimura (O'Reilly)
     - A modern classic for data scientists. It covers advanced window functions, time-series analysis, and how to use SQL for complex cohort analysis and A/B testing.
-- [**SQL Cookbook**](LINK) (*2nd Edition*)
+- [**SQL Cookbook**](https://drive.google.com/file/d/1oH_OyDCv8GLOpyP73eCLM0AGHWQDZzLg/view?usp=sharing) (*2nd Edition*)
     - **Author:** Anthony Molinaro (O'Reilly)
     - A collection of "recipes" for solving specific problems. The 2nd edition has been updated to include modern features like window functions and recursive CTEs.
-- [**Database Internals**](LINK) (*1st Edition*)
+- [**Database Internals**](https://drive.google.com/file/d/1v1V6TDpiTa6t_UMVv2uUnO2vUk_TmqUG/view?usp=sharing) (*1st Edition*)
     - **Author:** Alex Petrov (O'Reilly)
     - For developers who want to understand how databases actually store data on disk. It covers B-Trees, LSM trees, and the storage engines that power SQL databases.
-- [**Seven Databases in Seven Weeks**](LINK) (*2nd Edition*)
+- [**Seven Databases in Seven Weeks**](https://drive.google.com/file/d/1fiQbA99yhfIPUjenV14CQsxYVth9wOYZ/view?usp=sharing) (*2nd Edition*)
     - **Authors:** Luc Perkins, Eric Redmond, and Jim Wilson
     - Compares relational SQL databases with NoSQL alternatives. Great for architects deciding which database technology fits their specific use case.
 
 
 ## Comprehensive References
 
-- [**SQL in a Nutshell**](LINK) (*4th Edition*)
+- [**SQL in a Nutshell**](https://drive.google.com/file/d/1rEXIAP3fyJ4jIoW3HBQL6LhfVWcAiUaS/view?usp=sharing) (*4th Edition*)
     - **Author:** Kevin Kline (O'Reilly)
     - The perfect desk reference. It compares the syntax of the major SQL dialects (PostgreSQL, MySQL, Oracle, SQL Server) side-by-side.
 - [**Modern SQL**](https://modern-sql.com/) (*Online Resource*)
