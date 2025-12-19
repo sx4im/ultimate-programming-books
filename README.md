@@ -784,23 +784,89 @@ SQL as applied to modern big data environments, analytics, and software architec
 
 ---
 
-### 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20"/> Swift
-- [The Swift Programming Language – Latest edition](PDF_LINK)
-- [Swift Programming: The Big Nerd Ranch Guide](PDF_LINK)
-- [Swift in Depth — 1st Edition (2019)](PDF_LINK)
-- [Hacking with swift](PDF_LINK)
+# 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30"/> Swift
 
-### 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="20"/> Ruby
+## For Beginners
+
+These books focus on the Swift language syntax and the basics of building your first mobile applications using modern Apple standards.
+
+- [**Swift Apprentice**](LINK) (*7th Edition*)
+    - Fully updated for **Swift 6**, this is widely considered the best book for absolute beginners. It covers variables, collections, and control flow using a step-by-step approach.
+- [**Head First Swift**](LINK) (*1st Edition*)
+    - A visual and interactive way to learn. It focuses on "thinking in Swift" rather than just memorizing syntax, making it ideal for those who find standard documentation too dry.
+- [**Swift Programming: The Big Nerd Ranch Guide**](LINK) (*3rd Edition*)
+    - Known for its clear, pedagogical style. It doesn't just show you code; it explains the "why" behind Swift’s design, making it a staple for anyone who wants a classroom-quality introduction to the language
+- [**Develop in Swift Fundamentals**](https://books.apple.com/us/book/develop-in-swift-fundamentals/id1581182804) (*Official Apple Book*)
+    - Apple’s official curriculum designed for use with Xcode. It provides the structured path directly from the creators of the language.
+- [**SwiftUI for Masterminds**]() (*3rd Edition*)
+    - A massive, project-based guide that takes you from zero to building professional apps. It is famous for its "learn-by-doing" philosophy and deep coverage of the framework.
+- [**IOS Development with Swift**](LINK)
+    - A comprehensive guide that bridges the gap from basics to building real-world projects using the latest SwiftUI, UIKit, and Xcode tools.
+
+
+## For Intermediate Developers
+
+These books help you move from writing basic code to building robust, professional-grade applications with clean architecture.
+
+- [**Learning Swift**](LINK) (*3rd Edition*)
+    - **The Deep Dive:** A comprehensive resource updated for high-performance apps. It covers protocol-oriented programming, generics, and the more complex architectural parts of the language.
+- [**Swift in Depth**](LINK) (*1st Edition*)
+    - Focuses on the "quirks" and powerful tools of Swift. Perfect for writing cleaner, more idiomatic code using advanced enums and robust error handling.
+- [**Swift Gems**](LINK) (*1st Edition - 2025*)
+    - A collection of over 100 high-value tips and techniques designed for developers who want to polish their code and use the standard library to its full potential.
+- [**Practical Swift**](LINK)
+    - A guide focused on real-world scenarios, teaching you how to build production-ready features while adhering to industry best practices.
+
+
+## For Advanced Programmers
+
+Deep dives into the compiler, performance tuning, and the most complex parts of the Swift type system and concurrency model.
+
+- [**Advanced Swift**](LINK) (*Latest Edition*)
+    - The most famous book for advanced Swift. It explains how the language works under the hood, from memory management (ARC) to collection internals.
+- [**Modern Concurrency in Swift**](LINK) 
+    - Essential for senior devs. It focuses entirely on **Swift 6 Concurrency**, including Async/Await, Actors, and the new strict concurrency safety checks.
+- [**Expert Swift**](LINK) (*1st Edition*)
+    - Covers low-level optimizations, advanced functional programming, and complex API design for framework creators.
+- [**Thinking in SwiftUI**](LINK) (*Latest Edition*)
+    - This book helps you understand the underlying logic of SwiftUI's layout and state management systems, moving you from "using" SwiftUI to truly "mastering" it.
+
+
+## For Specialized Fields
+
+Focused on professional domains like app architecture, test-driven development, and high-performance graphics.
+
+- [**App Architecture**](LINK) (*1st Edition*)
+    - Compares patterns like MVC, MVVM, and Redux. Essential for anyone moving into a Lead or Senior role to understand structural trade-offs.
+- [**Hacking with Swift**]()
+    - This is perhaps the most famous project-based book in the Swift community. It takes you through building 39 real-world projects, following a "learn by doing" philosophy that ensures you understand how to apply Swift to actual app development.
+- [**Metal by Tutorials**](LINK) (*3rd Edition*)----
+    - For developers interested in 3D graphics or high-performance game engine development using Apple’s low-level Metal API.
+- [**Testing Swift**](LINK) (*1st Edition*)----
+    - The definitive guide to XCTest, UI testing, and TDD. It teaches you how to write code that is actually "testable," which is often a struggle in mobile dev.
+
+
+## Comprehensive References
+
+- [**The Swift Programming Language**](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) (*Official Documentation*)
+    - The ultimate source of truth, updated with every minor language release.
+- [**SwiftUI Views Mastery**](LINK)
+    - A visual "dictionary" for SwiftUI views. It’s perfect for quickly looking up how to implement specific UI components with visual examples.
+
+---
+
+
+# 13. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30"/> Ruby
 - [The Well-Grounded Rubyist (Beginner)](PDF_LINK)
 - [Eloquent Ruby (Intermediate)](PDF_LINK)
 - [Metaprogramming Ruby (Advanced)](PDF_LINK)
 
-### 13. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20"/> Dart
+# 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart
 - [Dart Apprentice (Beginner)](PDF_LINK)
 - [Programming Dart (Intermediate)](PDF_LINK)
 - [Mastering Dart (Advanced)](PDF_LINK)
 
-### 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="20" /> Scala
+# 15. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" /> Scala
 - [Programming in Scala (Beginner)](PDF_LINK)
 - [Scala Cookbook (Intermediate)](PDF_LINK)
 - [Functional Programming in Scala (Advanced)](PDF_LINK)
