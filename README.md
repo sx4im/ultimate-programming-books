@@ -647,11 +647,11 @@ These guides are perfect for quick lookups, staying current with best practices,
 
 These books are for newcomers to Kotlin or those transitioning from Java who want to understand the core syntax and the "Kotlin way" of writing code.
 
-- [**Head First Kotlin**](LINK) (*1st Edition*)
+- [**Head First Kotlin**](https://drive.google.com/file/d/1uopk9AAKW7l_WIlZyZfYpwqCcVqyBlGw/view?usp=sharing) (*1st Edition*)
     - A brain-friendly, visual guide to learning Kotlin. Perfect for those who find traditional technical manuals too dry. It covers the fundamentals and functional programming concepts with a unique, engaging teaching style.
-- [**Atomic Kotlin**](LINK) (*1st Edition*)
+- [**Atomic Kotlin**](https://drive.google.com/file/d/1ZVoig_RngXbljgpXGS69YBmNLMQzXv0u/view?usp=sharing) (*1st Edition*)
     - Designed for both beginners and experienced programmers. It breaks the language down into small, digestible "atoms," making it very easy to master complex concepts one step at a time.
-- [**Kotlin Programming: The Big Nerd Ranch Guide**](LINK) (*2nd Edition*)
+- [**Kotlin Programming: The Big Nerd Ranch Guide**](https://drive.google.com/file/d/1FPEhYAxWa1qHQ6dObDnoDR8fsRM5VtwO/view?usp=sharing) (*2nd Edition*)
     - A very practical, hands-on introduction to Kotlin. It focuses on using the language for real-world tasks and is highly recommended for its clear explanations and useful exercises.
 
 
@@ -659,11 +659,11 @@ These books are for newcomers to Kotlin or those transitioning from Java who wan
 
 Move beyond the basics to master more advanced features like Coroutines, DSLs, and idiomatic Kotlin style.
 
-- [**Kotlin in Action**](LINK) (*2nd Edition*)
+- [**Kotlin in Action**](https://drive.google.com/file/d/1NxvVTLNqCmzVPwqpvWTGU3RMIc3US4OM/view?usp=sharing) (*2nd Edition*)
     - **The Definitive Guide:** Written by the core development team at JetBrains. This updated edition is the most authoritative resource available, covering modern features like Coroutines and structured concurrency.
-- [**Programming Kotlin**](LINK) (*1st Edition*)
+- [**Programming Kotlin**](https://drive.google.com/file/d/1LYx8xU91kJN4v8TrJGqi4NFlDxTXKQHh/view?usp=sharing) (*1st Edition*)
     - Known for its concise and high-impact style, this book helps you write elegant, expressive, and safe Kotlin code while leaving "Java-isms" behind.
-- [**Effective Kotlin**](LINK) (*2nd Edition*)
+- [**Effective Kotlin**](https://drive.google.com/file/d/1LU06OFOo2JLtHbF40E4G_46IqwgiGwFU/view?usp=sharing) (*2nd Edition*)
     - Much like the famous *Effective Java*, this book provides a set of best practices and rules to help you write cleaner, more maintainable, and higher-performance Kotlin code.
 
 
@@ -671,13 +671,13 @@ Move beyond the basics to master more advanced features like Coroutines, DSLs, a
 
 Deep dives into the compiler, advanced concurrency, and high-level architectural patterns.
 
-- [**Software Architecture with Kotlin**](LINK) (*1st Edition*)
+- [**Software Architecture with Kotlin**](https://drive.google.com/file/d/1HohouuFqQ_1eQbqBoXEBMtUS85lvkptS/view?usp=sharing) (*1st Edition*)
     - This book fits perfectly here as it teaches you how to design scalable and high-performance applications. It covers architectural patterns like Microservices and CQRS specifically implemented using Kotlin's unique features.
-- [**Kotlin Design Patterns and Best Practices**](LINK) (*2nd Edition*)
+- [**Kotlin Design Patterns and Best Practices**](https://drive.google.com/file/d/1mq7jfZ_Ce7iB1NyJOo4RXIMpf2Hd0tCp/view?usp=sharing) (*2nd Edition*)
     - Explores classic and modern design patterns specifically tailored for Kotlin. It includes deep dives into Coroutines, Ktor, and building reactive microservices.
-- [**The Joy of Kotlin**](LINK) (*1st Edition*)
+- [**The Joy of Kotlin**](https://drive.google.com/file/d/1dSp6NJ49inBhTDwQWEC2dtEx7xE7qu2u/view?usp=sharing) (*1st Edition*)
     - For those who want to master **Functional Programming** in Kotlin. It teaches you how to think in a functional way to build more robust and testable software.
-- [**Kotlin Coroutines**](LINK) 
+- [**Kotlin Coroutines**](https://drive.google.com/file/d/1bAanWlXlmmjtlQWIu3wbn_xGCU32FFgI/view?usp=sharing) 
     - The deepest dive available on Kotlin’s most powerful feature: Coroutines. It covers everything from basic suspension to advanced structured concurrency and Flows.
 
 
@@ -685,15 +685,15 @@ Deep dives into the compiler, advanced concurrency, and high-level architectural
 
 Kotlin is the primary language for Android and is rapidly growing in the cross-platform space via Kotlin Multiplatform (KMP).
 
-- [**Kotlin for Android Developers**](LINK) (*6th Edition*)
+- [**Kotlin for Android Developers**](https://drive.google.com/file/d/1llsRA3Fy5J7G4UdFrQcYOkJ4B9kItXPT/view?usp=sharing) (*6th Edition*)
     - One of the most famous books in the Kotlin ecosystem. It was the first book that taught Android developers how to build a real app from scratch using Kotlin, helping to spark the language's mass adoption.
-- [**Pro Android with Kotlin**](LINK) (*2nd Edition*)
+- [**Pro Android with Kotlin**](https://drive.google.com/file/d/1MYDw6qAy_LbMjs_p-fzpoqmoahqQQTvP/view?usp=sharing) (*2nd Edition*)
     - A comprehensive guide for professional developers. It covers advanced Android development, including building complex UIs, working with background services, and deep integration with the Kotlin standard library.
-- [**Android Programming: The Big Nerd Ranch Guide**](LINK) (*5th Edition*)
+- [**Android Programming: The Big Nerd Ranch Guide**](https://drive.google.com/file/d/1EDrFgkxDEE33ass5rKTXOvdJrumbplfN/view?usp=sharing) (*5th Edition*)
     - The gold standard for learning Android development with Kotlin. It focuses on industry-standard tools like Jetpack Compose and modern architecture patterns.
-- [**Programming Android with Kotlin**](LINK) (*1st Edition*)
+- [**Programming Android with Kotlin**](https://drive.google.com/file/d/1qmz4pIdQWFuj0RrPDGiKTKelRyVHfrN6/view?usp=sharing) (*1st Edition*)
     - An O'Reilly guide that focuses on structured concurrency and how to use Kotlin’s advanced features specifically to solve Android-specific challenges.
-- [**Kotlin Multiplatform by Tutorials**](LINK) (*2nd Edition*)
+- [**Kotlin Multiplatform by Tutorials**](https://drive.google.com/file/d/1Ns-a-i1fIf1qxW_2lRCP_ueTuKsLf_yy/view?usp=sharing) (*2nd Edition*)
     - A practical guide to sharing code across iOS, Android, Desktop, and Web. This is the best resource for learning the future of cross-platform development.
 
 
