@@ -641,10 +641,148 @@ These guides are perfect for quick lookups, staying current with best practices,
 ---
 
 
-### 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20"/> Kotlin
-- [Kotlin Programming: The Big Nerd Ranch Guide (Beginner)](PDF_LINK)
-- [Kotlin in Action (Intermediate)](PDF_LINK)
-- [Atomic Kotlin (Advanced)](PDF_LINK)
+# 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30"/> Kotlin
+
+## For Beginners
+
+These books are for newcomers to Kotlin or those transitioning from Java who want to understand the core syntax and the "Kotlin way" of writing code.
+
+- [**Head First Kotlin**](LINK) (*1st Edition*)
+    - A brain-friendly, visual guide to learning Kotlin. Perfect for those who find traditional technical manuals too dry. It covers the fundamentals and functional programming concepts with a unique, engaging teaching style.
+- [**Atomic Kotlin**](LINK) (*1st Edition*)
+    - Designed for both beginners and experienced programmers. It breaks the language down into small, digestible "atoms," making it very easy to master complex concepts one step at a time.
+- [**Kotlin Programming: The Big Nerd Ranch Guide**](LINK) (*2nd Edition*)
+    - A very practical, hands-on introduction to Kotlin. It focuses on using the language for real-world tasks and is highly recommended for its clear explanations and useful exercises.
+
+
+## For Intermediate Developers
+
+Move beyond the basics to master more advanced features like Coroutines, DSLs, and idiomatic Kotlin style.
+
+- [**Kotlin in Action**](LINK) (*2nd Edition*)
+    - **The Definitive Guide:** Written by the core development team at JetBrains. This updated edition is the most authoritative resource available, covering modern features like Coroutines and structured concurrency.
+- [**Programming Kotlin**](LINK) (*1st Edition*)
+    - Known for its concise and high-impact style, this book helps you write elegant, expressive, and safe Kotlin code while leaving "Java-isms" behind.
+- [**Effective Kotlin**](LINK) (*2nd Edition*)
+    - Much like the famous *Effective Java*, this book provides a set of best practices and rules to help you write cleaner, more maintainable, and higher-performance Kotlin code.
+
+
+## For Advanced Programmers
+
+Deep dives into the compiler, advanced concurrency, and high-level architectural patterns.
+
+- [**Software Architecture with Kotlin**](LINK) (*1st Edition*)
+    - This book fits perfectly here as it teaches you how to design scalable and high-performance applications. It covers architectural patterns like Microservices and CQRS specifically implemented using Kotlin's unique features.
+- [**Kotlin Design Patterns and Best Practices**](LINK) (*2nd Edition*)
+    - Explores classic and modern design patterns specifically tailored for Kotlin. It includes deep dives into Coroutines, Ktor, and building reactive microservices.
+- [**The Joy of Kotlin**](LINK) (*1st Edition*)
+    - For those who want to master **Functional Programming** in Kotlin. It teaches you how to think in a functional way to build more robust and testable software.
+- [**Kotlin Coroutines**](LINK) 
+    - The deepest dive available on Kotlin’s most powerful feature: Coroutines. It covers everything from basic suspension to advanced structured concurrency and Flows.
+
+
+## For Specialized Fields
+
+Kotlin is the primary language for Android and is rapidly growing in the cross-platform space via Kotlin Multiplatform (KMP).
+
+- [**Kotlin for Android Developers**](LINK) (*6th Edition*)
+    - One of the most famous books in the Kotlin ecosystem. It was the first book that taught Android developers how to build a real app from scratch using Kotlin, helping to spark the language's mass adoption.
+- [**Pro Android with Kotlin**](LINK) (*2nd Edition*)
+    - A comprehensive guide for professional developers. It covers advanced Android development, including building complex UIs, working with background services, and deep integration with the Kotlin standard library.
+- [**Android Programming: The Big Nerd Ranch Guide**](LINK) (*5th Edition*)
+    - The gold standard for learning Android development with Kotlin. It focuses on industry-standard tools like Jetpack Compose and modern architecture patterns.
+- [**Programming Android with Kotlin**](LINK) (*1st Edition*)
+    - An O'Reilly guide that focuses on structured concurrency and how to use Kotlin’s advanced features specifically to solve Android-specific challenges.
+- [**Kotlin Multiplatform by Tutorials**](LINK) (*2nd Edition*)
+    - A practical guide to sharing code across iOS, Android, Desktop, and Web. This is the best resource for learning the future of cross-platform development.
+
+
+## Comprehensive References
+
+These guides are perfect for quick lookups and staying current with the JetBrains ecosystem.
+
+- [**Kotlin Documentation**](https://kotlinlang.org/docs/home.html) (*Online Resource*)
+    - The official, living documentation. It is the most accurate reference for every standard library function and language feature.
+- [**Kotlin Hands-on**](https://play.kotlinlang.org/byExample/overview) (*Online Resource*)
+    - A collection of official, runnable tutorials that walk you through specific tasks like building HTTP APIs or using Kotlin/JS.
+
+---
+
+# 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> SQL
+
+## For Beginners
+
+These books provide a solid foundation in relational database concepts, SQL syntax, and basic data manipulation.
+
+- [**SQL Practice Problems**](LINK) (*1st Edition*)
+    - A highly recommended, hands-on workbook. Instead of just reading theory, you learn by solving 57 real-world problems. It is arguably the best way to get comfortable with the language quickly.
+- [**Head First SQL**](LINK) (*2nd Edition*)
+    - A visually rich introduction to SQL. It uses the "Head First" style to teach you how to create tables, run queries, and understand database constraints in a brain-friendly way.
+- [**SQL in 10 Minutes, Sams Teach Yourself**](LINK) (*5th Edition*)
+    - A concise, fast-paced guide that focuses on the most important 20% of SQL that you will use 80% of the time. Perfect for professionals who need to learn the basics in a weekend.
+- [**Learning SQL**](LINK) (*3rd Edition*)
+    - A classic O'Reilly starter guide. It provides a broad overview of SQL syntax and relational database theory, using MySQL as the primary teaching tool.
+- [**Getting Started with SQL**](LINK) (*1st Edition*)
+    - A very short, accessible guide for absolute beginners who want to learn how to retrieve and filter data without getting bogged down in database administration.
+
+
+## For Intermediate Developers
+
+Move beyond simple `SELECT` statements to master complex joins, subqueries, window functions, and database design.
+
+- [**SQL for Smarties: Advanced T-SQL Recipes**](LINK) (*5th Edition*)
+    - Joe Celko is a legend in the SQL world. This book focuses on thinking in "sets" rather than procedural logic. It is a must-read for anyone wanting to write professional-grade SQL.
+- [**SQL Queries for Mere Mortals**](LINK) (*4th Edition*)
+    - A massive, comprehensive guide to writing complex queries. It focuses on the logic behind the queries, making it language-agnostic across PostgreSQL, SQL Server, and MySQL.
+- [**Practical SQL: A Beginner's Guide to Storytelling with Data**](LINK) (*2nd Edition*)
+    - A fantastic book for data analysts. It uses PostgreSQL to teach you how to analyze real-world datasets, including census data and crime statistics.
+- [**Database Design for Mere Mortals**](LINK) (*3rd Edition*)
+    - While not strictly a "coding" book, it is the definitive guide to designing relational databases correctly so that your SQL queries remain efficient and easy to write.
+
+
+## For Advanced Programmers & DBAs
+
+Deep dives into query optimization, internal architecture, and high-performance tuning.
+
+- [**SQL Performance Explained**](LINK) (*1st Edition*)
+    - The best book available on indexing and performance. It explains exactly how the database engine finds data and how you can write queries that don't crawl under heavy loads.
+- [**The Art of SQL**](LINK) (*1st Edition*)
+    - Focuses on the "craft" of SQL. It treats SQL as an art form, teaching you how to architect your data access layer for maximum scalability and maintainability.
+- [**Joe Celko’s SQL Puzzles and Answers**](LINK) (*2nd Edition*)
+    - A collection of extremely difficult SQL challenges. This is the book you read when you think you know everything about SQL and want to be humbled by complex logic problems.
+- [**High Performance MySQL**](LINK) (*4th Edition*)
+    - **Authors:** Silvia Botros and Jeremy Tinley (O'Reilly)
+    - The definitive guide for anyone working with MySQL at scale. It covers everything from replication and load balancing to advanced query optimization.
+
+
+## For Specialized Fields (Data Science & Modern Stack)
+
+SQL as applied to modern big data environments, analytics, and software architecture.
+
+- [**SQL for Data Analysis**](LINK) (*1st Edition*)
+    - **Author:** Cathy Tanimura (O'Reilly)
+    - A modern classic for data scientists. It covers advanced window functions, time-series analysis, and how to use SQL for complex cohort analysis and A/B testing.
+- [**SQL Cookbook**](LINK) (*2nd Edition*)
+    - **Author:** Anthony Molinaro (O'Reilly)
+    - A collection of "recipes" for solving specific problems. The 2nd edition has been updated to include modern features like window functions and recursive CTEs.
+- [**Database Internals**](LINK) (*1st Edition*)
+    - **Author:** Alex Petrov (O'Reilly)
+    - For developers who want to understand how databases actually store data on disk. It covers B-Trees, LSM trees, and the storage engines that power SQL databases.
+- [**Seven Databases in Seven Weeks**](LINK) (*2nd Edition*)
+    - **Authors:** Luc Perkins, Eric Redmond, and Jim Wilson
+    - Compares relational SQL databases with NoSQL alternatives. Great for architects deciding which database technology fits their specific use case.
+
+
+## Comprehensive References
+
+- [**SQL in a Nutshell**](LINK) (*4th Edition*)
+    - **Author:** Kevin Kline (O'Reilly)
+    - The perfect desk reference. It compares the syntax of the major SQL dialects (PostgreSQL, MySQL, Oracle, SQL Server) side-by-side.
+- [**Modern SQL**](https://modern-sql.com/) (*Online Resource*)
+    - **Author:** Markus Winand
+    - A living resource that tracks the latest features added to the SQL standard (SQL:2016, SQL:2019, SQL:2023) and which databases support them.
+
+---
 
 ### 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20"/> Swift
 - [The Swift Programming Language – Latest edition](PDF_LINK)
@@ -697,10 +835,7 @@ These guides are perfect for quick lookups, staying current with best practices,
 - [Programming in MATLAB (Intermediate)](PDF_LINK)
 - [MATLAB: Advanced Guide (Advanced)](PDF_LINK)
 
-### 21. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20"/> SQL
-- [SQL for Beginners (Beginner)](PDF_LINK)
-- [Learning SQL (Intermediate)](PDF_LINK)
-- [SQL Performance Explained (Advanced)](PDF_LINK)
+
 
 ### 22. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="20"/> R
 - [R for Data Science (Beginner)](PDF_LINK)
