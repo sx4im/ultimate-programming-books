@@ -16,20 +16,16 @@
 
 ---
 
-## 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python
+# 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python
 
 ##  For Beginners
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
 - [**Python Crash Course**](https://drive.google.com/file/d/1Tv3Iq_gKy-hbE6Je0QYwfaNRAhNjiULa/view?usp=sharing) (*2nd Edition*)
-    - A project-based introduction to building games, web apps, and data visualizations.
 - [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1HAvg9-4HW2ZRPHU-morgubdKU0rZmAeS/view?usp=sharing) (*2nd Edition*)
-    - Learn Python by automating practical, everyday tasks like working with spreadsheets and files.
 - [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/12MLwA-BqS-jscalPhWnf2JKK5JC74V6g/view?usp=sharing) (*2nd Edition*)
-    - A modern, hands-on guide from O'Reilly that covers the core language and its use in popular fields.
 - [**Head First Python**](https://drive.google.com/file/d/13LinTdVKLxsar6nLoXwo8_M7Nfa6hcbi/view?usp=sharing) (*2nd Edition*)
-    - A visually rich book that uses a brain-friendly approach to make learning Python fun and effective.
 
 
 ##  For Intermediate Developers
@@ -37,11 +33,8 @@ These books are perfect if you are new to programming or new to Python. They req
 Once you know the basics, these books will help you write more effective, idiomatic, and professional code.
 
 - [**Effective Python: 90 Specific Ways to Write Better Python**](https://drive.google.com/file/d/1W-qIUtJ3DOOLQGg86m_t8gBVGrjz8OrI/view?usp=sharing) (*2nd Edition*)
-    - A collection of specific, actionable tips and best practices to improve your code quality.
 - [**Python Cookbook**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
-    - An O'Reilly book full of practical "recipes" for solving common problems in a modern Pythonic way.
 - [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
-    - A concise and practical guide from a renowned Python expert, focusing on the essential skills for building real-world software.
 
 
 ## For Advanced Programmers
@@ -49,11 +42,8 @@ Once you know the basics, these books will help you write more effective, idioma
 Dive deep into Python's features, concurrency, and learn to design robust, large-scale applications.
 
 - [**Fluent Python**](https://drive.google.com/file/d/1EqAKCmgiWFj_NAAlUxx9mF0h2rSs3Ngf/view?usp=sharing) (*2nd Edition*)
-    - The definitive O'Reilly guide to mastering idiomatic, "Pythonic" code by understanding Python's core features deeply.
 - [**Architecture Patterns with Python**](https://drive.google.com/file/d/1lKtXfU0Hs22QOGQiE7m9gEpYnPHbPEBn/view?usp=sharing) (*Latest Edition*)
-    - Learn to structure your applications for maintainability and scalability using professional design patterns.
 - [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](https://drive.google.com/file/d/1IpYDx3r32s8wlHBDvgh4vndn_LATqF2n/view?usp=sharing) (*Latest Edition*)
-    - Focuses on the practical aspects of building and deploying production-ready Python applications.
 
 
 ## For Specialized Fields
@@ -61,11 +51,8 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 Focus on applying Python to a specific professional domain like Data Science, Machine Learning, or Web Development.
 
 - [**Python for Data Analysis**](https://drive.google.com/file/d/1EhoR0GurifXZUgZRyrROBw1-pR0aPy_B/view?usp=sharing) (*3rd Edition*)
-    - The essential O'Reilly guide for data science, written by the creator of the pandas library.
 - [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://drive.google.com/file/d/1QbxxppA-wBGA1i2YB3dMCl8xrpORSMrA/view?usp=sharing) (*2nd Edition*)
-    - The definitive O'Reilly book for aspiring ML engineers, balancing theory and hands-on practice.
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
-    - An O'Reilly book that provides a comprehensive introduction to building web applications with Flask.
 
 
 ## Comprehensive References
@@ -73,9 +60,7 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
 These massive, detailed guides are best used as companions throughout your learning journey.
 
 - [**Learning Python**](https://drive.google.com/file/d/1rIJ6NyKuTAM9hgGC2HDoMKaxBVIcAWt-/view?usp=sharing) (*5th Edition*)
-    - O'Reilly's exhaustive, deeply detailed reference on the core Python language itself.
 - [**Python Pocket Reference**](https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing) (*5th Edition*)
-    - A concise and convenient O'Reilly guide for quick lookups of syntax and standard library modules.
 
 ---
 
