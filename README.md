@@ -22,7 +22,7 @@
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
-- [**Python Crash Course**](https://drive.google.com/file/d/1Tv3Iq_gKy-hbE6Je0QYwfaNRAhNjiULa/view?usp=sharing) (*2nd Edition*)
+- [**Python Crash Course**](https://drive.google.com/file/d/1dJDhHxZMjDU9U0OHk6BDrBVP4ft5C59b/view?usp=sharing) (*3rd Edition*)
 - [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1HAvg9-4HW2ZRPHU-morgubdKU0rZmAeS/view?usp=sharing) (*2nd Edition*)
 - [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/12MLwA-BqS-jscalPhWnf2JKK5JC74V6g/view?usp=sharing) (*2nd Edition*)
 - [**Head First Python**](https://drive.google.com/file/d/13LinTdVKLxsar6nLoXwo8_M7Nfa6hcbi/view?usp=sharing) (*2nd Edition*)
