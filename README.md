@@ -25,7 +25,7 @@ These books are perfect if you are new to programming or new to Python. They req
 - [**Python Crash Course**](https://drive.google.com/file/d/1dJDhHxZMjDU9U0OHk6BDrBVP4ft5C59b/view?usp=sharing) (*3rd Edition*)
 - [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1HAvg9-4HW2ZRPHU-morgubdKU0rZmAeS/view?usp=sharing) (*2nd Edition*)
 - [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/12MLwA-BqS-jscalPhWnf2JKK5JC74V6g/view?usp=sharing) (*2nd Edition*)
-- [**Head First Python**](https://drive.google.com/file/d/13LinTdVKLxsar6nLoXwo8_M7Nfa6hcbi/view?usp=sharing) (*2nd Edition*)
+- [**Head First Python**](https://drive.google.com/file/d/13LinTdVKLxsar6nLoXwo8_M7Nfa6hcbi/view?usp=sharing) (*3rd Edition*)
 
 
 ##  For Intermediate Developers
@@ -51,7 +51,7 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 Focus on applying Python to a specific professional domain like Data Science, Machine Learning, or Web Development.
 
 - [**Python for Data Analysis**](https://drive.google.com/file/d/1EhoR0GurifXZUgZRyrROBw1-pR0aPy_B/view?usp=sharing) (*3rd Edition*)
-- [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://drive.google.com/file/d/1QbxxppA-wBGA1i2YB3dMCl8xrpORSMrA/view?usp=sharing) (*2nd Edition*)
+- [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://drive.google.com/file/d/1jMLJE4NA7tdSBIE-KZkWznJxdKQr8UrO/view?usp=sharing) (*3rd Edition*)
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
 
 
