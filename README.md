@@ -277,7 +277,74 @@ These guides are perfect for quick lookups and as detailed companions throughout
       
 ---
 
-# 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> C++
+# 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/> C
+
+## For Beginners
+
+These books provide the foundation for manual memory management, pointer logic, and procedural programming.
+
+- [**The C Programming Language**](LINK) (*2nd Edition*)
+    - Written by the creators of the language. It is famous for being incredibly concise. While it doesn't cover modern C23 standards, every professional C programmer is expected to have read this to understand the "soul" of the language.
+- [**C Programming: A Modern Approach**](LINK) (*2nd Edition*)
+    - Widely considered the gold standard for learning C today. It is massive, clear, and covers everything from basic syntax to advanced pointers and the Standard Library in extreme detail.
+- [**C Programming Absolute Beginner's Guide**](LINK) (*3rd Edition*)
+    - If K&R feels too dense, start here. It uses simple language and avoids overwhelming you with technical jargon, making it the most accessible entry point for a total novice.
+- [**Head First C**](LINK) (*1st Edition*)
+    - A visual, brain-friendly guide. It’s excellent for visual learners and covers unique topics early on, like working with the local file system, cross-compiling, and basic networking.
+- [**C Primer Plus**](LINK) (*6th Edition*)
+    - A favorite for self-taught programmers. It is known for its clear, friendly explanations and extensive exercises at the end of each chapter. It strikes a perfect balance between being a tutorial and a thorough reference, covering the C11 standard.
+
+## For Intermediate & Systems Developers
+
+Once you know the syntax, these books teach you how to build "real" software like operating systems, compilers, and drivers.
+
+- [**Modern C**](https://gustedt.gitlabpages.inria.fr/modern-c/) (*Latest Edition*)
+    - Focuses on modern C (C11/C17/C23). It teaches you about threads, atomic access, and the latest ways to write safe, high-performance code that takes advantage of modern hardware.
+- [**21st Century C**](LINK) (*2nd Edition*)
+    - Treats C as a modern, evolving language. It covers the modern "ecosystem" including how to use tools like **GDB, Valgrind, and Pkg-config** to manage complex projects.
+- [**Low-Level Programming**](LINK) (*1st Edition*)
+    - A deep dive into **C, Assembly, and Program Execution**. This is the book you read if you want to understand exactly how the CPU and memory handle your C code.
+- [**Intermediate C Programming**](LINK) (*1st Edition*)
+    - Focuses on "programming well." It emphasizes rigorous debugging, finding memory leaks, and moving from small scripts to multi-file software projects.
+
+
+## For Advanced Programmers & "Gurus"
+
+These books explore the dark corners, hidden secrets, and high-performance optimizations of the language.
+
+- [**Expert C Programming: Deep C Secrets**](LINK) (*1st Edition*)
+    - Famous for its wit and "war stories." It explains the most confusing parts of C—like the subtle differences between arrays and pointers—with incredible depth and humor.
+- [**C Interfaces and Implementations**](LINK) (*1st Edition*)
+    - Teaches you how to write "reusable" C code. It shows you how to build professional-grade libraries and data structures (like Hash Tables) that actually look like modern, clean APIs.
+- [**Effective C**](LINK) (*1st Edition*)
+    - Since C allows you to "shoot yourself in the foot," Seacord (a security expert) teaches you how to write code that is resistant to hackers, buffer overflows, and undefined behavior.
+- [**The Standard C Library**](LINK) (*1st Edition*)
+    - Contains the entire source code for the C standard library. If you want to know how `printf` or `malloc` works internally, this is the definitive resource.
+
+
+## For Specialized Fields (Embedded & Networking)
+
+- [**Programming Embedded Systems in C**](LINK) (*2nd Edition*)
+    - The definitive guide for writing code for microcontrollers and hardware where memory is strictly limited.
+- [**Hands-On Network Programming with C**](https://www.oreilly.com/library/view/hands-on-network-programming/9781789349863/8d268c5f-d3e2-4a30-9da5-2697ac4e11af.xhtml) (*1st Edition*)
+    - A modern look at Sockets, HTTP, and TCP/IP using pure C. Essential for building web servers or communication protocols from scratch.
+- [**Linux Kernel Development**](LINK) (*3rd Edition*)
+    - For those specializing in OS internals. It explains how the Linux kernel is designed and implemented using C, covering process management, scheduling, and memory management.
+- [**The Art of Debugging with GDB, DDD, and Eclipse**](LINK) (*1st Edition*)
+    - Specialized for the "other half" of C programming: fixing bugs. It teaches advanced use of the GNU Debugger (GDB).
+- [**Introduction to High Performance Computing for Scientists and Engineers**](LINK) (*1st Edition*)
+    - Focuses on optimizing C code for modern processor architectures, cache utilization, and parallel programming (OpenMP).
+
+## Comprehensive References
+
+- [**C in a Nutshell**](LINK) (*2nd Edition*)
+    - The best desk reference for quickly looking up the specific signature of a library function or a preprocessor directive.
+- [**Beej's Guide to C Programming**](https://beej.us/guide/bgc/) (*Online Resource*)
+    - The most famous free online guide. It is incredibly funny, easy to read, and updated constantly for the newest C standards.
+
+---
+
+# 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> C++
 
 ## For Beginners
 
@@ -353,7 +420,7 @@ These guides are perfect for quick lookups and as detailed companions throughout
 
 ---
 
-# 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/> TypeScript
+# 7. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/> TypeScript
 
 ## For Beginners
 
@@ -421,7 +488,7 @@ These resources are perfect for quick lookups, staying current with the rapidly 
 
 ---
 
-# 7. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
+# 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
 
 ## For Beginners
 
@@ -493,7 +560,7 @@ The official documentation is paramount, but these books provide excellent refer
 ---
 
 
-# 8.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" /> Rust
+# 9.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" /> Rust
 
 ## For Beginners
 
@@ -569,7 +636,7 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
 ---
 
 
-# 9. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/> PHP
+# 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/> PHP
 
 ## For Beginners
 
@@ -641,7 +708,7 @@ These guides are perfect for quick lookups, staying current with best practices,
 ---
 
 
-# 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30"/> Kotlin
+# 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30"/> Kotlin
 
 ## For Beginners
 
@@ -708,7 +775,7 @@ These guides are perfect for quick lookups and staying current with the JetBrain
 
 ---
 
-# 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> SQL
+# 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> SQL
 
 ## For Beginners
 
@@ -784,7 +851,7 @@ SQL as applied to modern big data environments, analytics, and software architec
 
 ---
 
-# 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30"/> Swift
+# 13. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30"/> Swift
 
 ## For Beginners
 
@@ -840,10 +907,10 @@ Focused on professional domains like app architecture, test-driven development, 
     - Compares patterns like MVC, MVVM, and Redux. Essential for anyone moving into a Lead or Senior role to understand structural trade-offs.
 - [**Hacking with Swift**]()
     - This is perhaps the most famous project-based book in the Swift community. It takes you through building 39 real-world projects, following a "learn by doing" philosophy that ensures you understand how to apply Swift to actual app development.
-- [**Metal by Tutorials**](LINK) (*3rd Edition*)----
+- [**Metal by Tutorials**](https://www.scribd.com/document/627200521/Metal-by-Tutorials-3rd) (*3rd Edition*)
     - For developers interested in 3D graphics or high-performance game engine development using Apple’s low-level Metal API.
-- [**Testing Swift**](LINK) (*1st Edition*)----
-    - The definitive guide to XCTest, UI testing, and TDD. It teaches you how to write code that is actually "testable," which is often a struggle in mobile dev.
+- [**Advanced iOS App Architecture**](LINK) (*3rd Edition*)
+    - A masterclass in building maintainable iOS applications. Zabłocki focuses on decoupling, automation through tools like Sourcery, and avoiding the "Massive View Controller" trap with scalable design patterns.
 
 
 ## Comprehensive References
@@ -856,100 +923,124 @@ Focused on professional domains like app architecture, test-driven development, 
 ---
 
 
-# 13. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30"/> Ruby
+# 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30"/> Ruby
 - [The Well-Grounded Rubyist (Beginner)](PDF_LINK)
 - [Eloquent Ruby (Intermediate)](PDF_LINK)
 - [Metaprogramming Ruby (Advanced)](PDF_LINK)
 
-# 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart
+---
+
+# 15. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart
 - [Dart Apprentice (Beginner)](PDF_LINK)
 - [Programming Dart (Intermediate)](PDF_LINK)
 - [Mastering Dart (Advanced)](PDF_LINK)
+  
+---
 
-# 15. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" /> Scala
+# 16. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" /> Scala
 - [Programming in Scala (Beginner)](PDF_LINK)
 - [Scala Cookbook (Intermediate)](PDF_LINK)
 - [Functional Programming in Scala (Advanced)](PDF_LINK)
 
-### 15. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="20"/> Perl
+---
+
+# 17. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30"/> Perl
 - [Learning Perl (Beginner)](PDF_LINK)
 - [Intermediate Perl (Intermediate)](PDF_LINK)
 - [Mastering Perl (Advanced)](PDF_LINK)
 
-### 16. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> Haskell
+---
+
+# 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30"/> Haskell
 - [Learn You a Haskell for Great Good! (Beginner)](PDF_LINK)
 - [Programming in Haskell (Intermediate)](PDF_LINK)
 - [Real World Haskell (Advanced)](PDF_LINK)
 
-### 17. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="20"/> Elixir
+---
+
+# 19. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30"/> Elixir
 - [Programming Elixir (Beginner)](PDF_LINK)
 - [Elixir in Action (Intermediate)](PDF_LINK)
 - [Metaprogramming Elixir (Advanced)](PDF_LINK)
 
-### 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="20"/> Clojure
+---
+
+# 20. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="30"/> Clojure
 - [Clojure for the Brave and True (Beginner)](PDF_LINK)
 - [Living Clojure (Intermediate)](PDF_LINK)
 - [Mastering Clojure (Advanced)](PDF_LINK)
+  
+---
 
-### 19. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="20"/> Shell (Bash)
+# 21. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30"/> Shell (Bash)
 - [Learning the bash Shell (Beginner)](PDF_LINK)
 - [Classic Shell Scripting (Intermediate)](PDF_LINK)
 - [Mastering Unix Shell Scripting (Advanced)](PDF_LINK)
 
-### 20. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20"/> MATLAB
+---
+
+# 22. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30"/> MATLAB
 - [MATLAB for Engineers (Beginner)](PDF_LINK)
 - [Programming in MATLAB (Intermediate)](PDF_LINK)
 - [MATLAB: Advanced Guide (Advanced)](PDF_LINK)
 
+---
 
-
-### 22. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="20"/> R
+# 23. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/> R
 - [R for Data Science (Beginner)](PDF_LINK)
 - [Advanced R (Intermediate)](PDF_LINK)
 - [The Art of R Programming (Advanced)](PDF_LINK)
 
-### 23. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="20"/> Lua
+---
+
+# 24. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30"/> Lua
 - [Programming in Lua (Beginner)](PDF_LINK)
 - [Lua Programming Gems (Intermediate)](PDF_LINK)
 - [Game Development with Lua (Advanced)](PDF_LINK)
 
-### 24. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20"/> C
-- [C Programming Absolute Beginner's Guide (Beginner)](PDF_LINK)
-- [Expert C Programming (Intermediate)](PDF_LINK)
-- [The C Programming Language (Advanced)](PDF_LINK)
+---
 
-### 25. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="20"/> Julia
+# 25. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30"/> Julia
 - [Think Julia (Beginner)](PDF_LINK)
 - [Julia Programming Projects (Intermediate)](PDF_LINK)
 - [Mastering Julia (Advanced)](PDF_LINK)
 
-### 26. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="20"/> Fortran
+---
+
+# 26. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="30"/> Fortran
 - [Modern Fortran Explained (Beginner)](PDF_LINK)
 - [Fortran 95/2003 for Scientists (Intermediate)](PDF_LINK)
 - [Advanced Fortran (Advanced)](PDF_LINK)
 
-### 27. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="20"/> Objective-C
+---
+
+# 27. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30"/> Objective-C
 - [Programming in Objective-C (Beginner)](PDF_LINK)
 - [Effective Objective-C 2.0 (Intermediate)](PDF_LINK)
 - [Advanced Objective-C (Advanced)](PDF_LINK)
 
-### 28. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="20"/> OCaml
+---
+
+# 28. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="30"/> OCaml
 - [OCaml from the Very Beginning (Beginner)](PDF_LINK)
 - [Real World OCaml (Intermediate)](PDF_LINK)
 - [Mastering OCaml (Advanced)](PDF_LINK)
 
-### 29. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="20"/> F#
+---
+
+# 29. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="30"/> F#
 - [Get Programming with F# (Beginner)](PDF_LINK)
 - [Expert F# (Intermediate)](PDF_LINK)
 - [F# Deep Dive (Advanced)](PDF_LINK)
 
-### 30. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apl/apl-original.svg" height="20"/> APL
+---
+  
+# 30. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apl/apl-original.svg" height="30"/> APL
 - [Mastering Dyalog APL (Beginner)](PDF_LINK)
 - [APL in Depth (Intermediate)](PDF_LINK)
 - [Advanced APL Techniques (Advanced)](PDF_LINK)
 
 ---
-
 
 ## 🤝 Contributing
 Contributions are welcome!  
