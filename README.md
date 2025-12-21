@@ -58,7 +58,9 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Python Data Science Handbook**](https://drive.google.com/file/d/1dXDoiPg9N4VGBgFLllYixG2p58IfKzqe/view?usp=sharing) (*2nd Edition*)
 - [**Effective Pandas 2**](LINK) (*2024/2025 Edition*)
 - [**Building Data Science Applications with FastAPI**](LINK)
+
 <br>
+
 - [**Python for Finance**](LINK) (*2nd Edition*)
 - [**Advances in Financial Machine Learning**](LINK)
 <br>
