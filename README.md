@@ -65,7 +65,7 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Python for Finance**](https://drive.google.com/file/d/1Vo7fH6e1ds04jh2DMJiAwiXtmk2Le8S5/view?usp=sharing) (*2nd Edition*)
 - [**Advances in Financial Machine Learning**](https://drive.google.com/file/d/1rhp--FYDX8HN7PZjIsYoV9DZsygApH9d/view?usp=sharing)
 - [**Black Hat Python**](https://drive.google.com/file/d/1A-6FFzKsKH8KBWKe-Xex6x3nKUJRttpn/view?usp=sharing) (*2nd Edition*)
-- [**Python for Cybersecurity**](https://drive.google.com/file/d/12hIC_ehrC4CJGsH3vzWxgjoNGC4sta8Y/view?usp=sharing) (*1st Edition - 2024/2025*)
+- [**Python for Cybersecurity**](https://drive.google.com/file/d/12hIC_ehrC4CJGsH3vzWxgjoNGC4sta8Y/view?usp=sharing) (*1st Edition*)
 - [**Violent Python**](https://drive.google.com/file/d/1mxMoCVmS7eMq66kW0ovEnoanT_cuRhje/view?usp=sharing)
 - [**Python for DevOps**](https://drive.google.com/file/d/1wbWMACWbiBHWHiarr8FY2lJ9v3fuzXVr/view?usp=sharing) (*1st Edition*)
 - [**Architecture Patterns with Python**](https://drive.google.com/file/d/1Q_nliXhHs9fkZCHFHgwvWj1uJeYxr-k5/view?usp=sharing) (*Latest Edition*)
@@ -87,7 +87,7 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
 - [**Django for Professional**](https://drive.google.com/file/d/1IYtzXesvaaMi2twWpSQlC1Bi0Wdi03YI/view?usp=sharing) (*Latest Edition*)
 - [**FastAPI: Modern Python Web Development**](https://drive.google.com/file/d/1HTXonEDa0utaa1ewACDhClS_AIstECEz/view?usp=sharing) (*1st Edition*)
-- [**Two Scoops of Django 3.x**](https://drive.google.com/file/d/1lz1_ww3kNobzHqCjYpfnk8gYwFqNzgfq/view?usp=sharing) (**3.x Edition**)
+- [**Two Scoops of Django**](https://drive.google.com/file/d/1lz1_ww3kNobzHqCjYpfnk8gYwFqNzgfq/view?usp=sharing) (**3.x Edition**)
 
 ## Comprehensive References
 
