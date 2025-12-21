@@ -22,6 +22,7 @@
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
+- [**Python for Everybody**](https://drive.google.com/file/d/1naeZ-Ba4ce5acu32-GvJXjNbl65o439f/view?usp=sharing) (*Latest Edition*)
 - [**Python Crash Course**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
 - [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1NbLN0H0_nait6xOildlg0RSehU5PXzDP/view?usp=sharing) (*2nd Edition*)
 - [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/12MLwA-BqS-jscalPhWnf2JKK5JC74V6g/view?usp=sharing) (*2nd Edition*)
@@ -33,6 +34,7 @@ These books are perfect if you are new to programming or new to Python. They req
 
 Once you know the basics, these books will help you write more effective, idiomatic, and professional code.
 
+- [**The Quick Python Book**](https://drive.google.com/file/d/1Iqq_s71shEtgb5j7Y0g2-7gFU-UMtjiH/view?usp=sharing) (*4th Edition*)
 - [**Effective Python: 90 Specific Ways to Write Better Python**](https://drive.google.com/file/d/1W-qIUtJ3DOOLQGg86m_t8gBVGrjz8OrI/view?usp=sharing) (*2nd Edition*)
 - [**Python Cookbook**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
 - [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
@@ -42,18 +44,25 @@ Once you know the basics, these books will help you write more effective, idioma
 
 Dive deep into Python's features, concurrency, and learn to design robust, large-scale applications.
 
+- [**Expert Python Programming**](https://drive.google.com/file/d/1ER9iFwUlm5vJ2dY4e__TCUmDRIE1riGE/view?usp=sharing) (*4th Edition*)
 - [**Fluent Python**](https://drive.google.com/file/d/1EqAKCmgiWFj_NAAlUxx9mF0h2rSs3Ngf/view?usp=sharing) (*2nd Edition*)
 - [**Architecture Patterns with Python**](https://drive.google.com/file/d/1Q_nliXhHs9fkZCHFHgwvWj1uJeYxr-k5/view?usp=sharing) (*Latest Edition*)
 - [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](https://drive.google.com/file/d/1IpYDx3r32s8wlHBDvgh4vndn_LATqF2n/view?usp=sharing) 
 - [**Robust Python**](https://drive.google.com/file/d/1hR8h4KzK1L18CA_ral_5vdnydup-4cGE/view?usp=sharing) (*1st Edition*)
-
+- [**Python Microservices Development**](https://drive.google.com/file/d/1muURujieIYs-2X5nyfnGlUv-6N5T8uGV/view?usp=sharing) (*2nd Edition*)
+  
 ## For Specialized Fields
 
-Focus on applying Python to a specific professional domain like Data Science, Machine Learning, or Web Development.
+Focus on applying Python to a specific professional domain like Data Science, Cybersecurity, NLP, Cloud/DevOps, Machine Learning, or Web Development.
+
+- [**Deep Learning with Python**](https://deeplearningwithpython.io/) (*Latest Edition*)
 - [**Clean Code in Python**](https://drive.google.com/file/d/1ECxFQB2lWIv6CdYiC6cOJkDV53VeV7ia/view?usp=sharing) (*2nd Edition*)
 - [**Python for Data Analysis**](https://drive.google.com/file/d/1EhoR0GurifXZUgZRyrROBw1-pR0aPy_B/view?usp=sharing) (*3rd Edition*)
+- [**Natural Language Processing with Transformers**](https://drive.google.com/file/d/1a3pv09qyxMtJxSnfZwSOrqXf8zt4dQO8/view?usp=sharing) (*Revised Edition*)
+- [**Python for DevOps**](https://drive.google.com/file/d/1wbWMACWbiBHWHiarr8FY2lJ9v3fuzXVr/view?usp=sharing) (*1st Edition*)
 - [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://drive.google.com/file/d/1jMLJE4NA7tdSBIE-KZkWznJxdKQr8UrO/view?usp=sharing) (*3rd Edition*)
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
+- [**Django for Professional**](https://drive.google.com/file/d/1IYtzXesvaaMi2twWpSQlC1Bi0Wdi03YI/view?usp=sharing) (*Latest Edition*)
 - [**Python Data Science Handbook**](https://drive.google.com/file/d/1dXDoiPg9N4VGBgFLllYixG2p58IfKzqe/view?usp=sharing) (*2nd Edition*)
 
 
@@ -61,6 +70,8 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
+- [**Refactoring Python**](LINK) (*1st Edition - 2025*)
+- [**The Python Standard Library by Example**](LINK) (*2nd Edition*)
 - [**Learning Python**](https://drive.google.com/file/d/1rIJ6NyKuTAM9hgGC2HDoMKaxBVIcAWt-/view?usp=sharing) (*5th Edition*)
 - [**Python Pocket Reference**](https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing) (*5th Edition*)
 
