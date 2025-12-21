@@ -121,7 +121,7 @@ These books will help you move beyond the basics to understand the core mechanic
 - [**You Don't Know JS Yet Series**](https://drive.google.com/drive/folders/1KVPu5zMerN2ky7_NaVDq6I5N2ZJXbPN0?usp=drive_link) (*Complete Series*)
 - [**JavaScript: The Good Parts**](https://drive.google.com/file/d/19bfwUL8aTigDnEYxNFqpmX6y1uIo2WyO/view?usp=drive_link) (*Latest Edition*)
 - [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](https://drive.google.com/file/d/1dTfT3r_Ds2dEGW0bx0h9YK7iMzq5bJ7g/view?usp=sharing) 
-- [**JavaScript for Impatient Programmers**](https://exploringjs.com/js/book/index.html) (*ES2025 Edition*)
+- [**Exploring JavaScript**](https://drive.google.com/file/d/1_3tn2ih0sYJkmOQ2a1SHuSNRg1zMQe6-/view?usp=sharing) (*ES2024 Edition*)
 - [**The Principles of Object-Oriented JavaScript**](https://drive.google.com/file/d/1vzjR18Q0iYvfPPaZxU1nG8QkHATMDbNz/view?usp=sharing)
   
 ## For Advanced Programmers
@@ -131,7 +131,7 @@ Explore advanced patterns, application architecture, and the functional side of 
 - [**Learning JavaScript Design Patterns**](https://drive.google.com/file/d/1W6yznBiKcXJEtdGO-r4bE4cB12N1YHYP/view?usp=drive_link) (*2nd Edition*)
 - [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](https://drive.google.com/file/d/1QkHLENfNrpfBkdjQ2M5miqSpHrSWyDyg/view?usp=drive_link)
 - [**Deep JavaScript: Theory and Techniques**](https://drive.google.com/file/d/1nXLMDa3K--8Eqnoki47UqH4sWAO2KQ78/view?usp=sharing) (*1st Edition*)
-- [**Secrets of the JavaScript Ninja**](https://drive.google.com/file/d/1wyQfSbgCw73x43rDkMWkT8p2kWCkj-N7/view?usp=sharing) (*2nd Edition*)
+- [**Secrets of the JavaScript Ninja**](https://drive.google.com/file/d/1RqzHBs-_3vxKkf3A3YCY8PBkv1huE3rO/view?usp=sharing) (*3rd Edition*)
 - [**Learning JavaScript: JavaScript Essentials for Modern Application Development**](https://drive.google.com/file/d/1o-FP2qw_IVXqnjDnDf1SLu9H7hD7PyYg/view?usp=sharing) (*3rd Edition*)
 - [**Hands-On JavaScript High Performance**](https://drive.google.com/file/d/1NIZE8OGQdnrAqTqtYaBcJJ_p4yVAtkgM/view?usp=sharing)
 - [**Multithreaded JavaScript**](https://drive.google.com/file/d/1GI9qWhNyTl81wzPwl7w27hmvOLh9qfDA/view?usp=sharing) (*1st Edition*)
