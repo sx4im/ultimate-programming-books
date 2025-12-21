@@ -43,7 +43,7 @@ Once you know the basics, these books will help you write more effective, idioma
 Dive deep into Python's features, concurrency, and learn to design robust, large-scale applications.
 
 - [**Fluent Python**](https://drive.google.com/file/d/1EqAKCmgiWFj_NAAlUxx9mF0h2rSs3Ngf/view?usp=sharing) (*2nd Edition*)
-- [**Architecture Patterns with Python**](https://drive.google.com/file/d/1lKtXfU0Hs22QOGQiE7m9gEpYnPHbPEBn/view?usp=sharing) (*Latest Edition*)
+- [**Architecture Patterns with Python**](https://drive.google.com/file/d/1Q_nliXhHs9fkZCHFHgwvWj1uJeYxr-k5/view?usp=sharing) (*Latest Edition*)
 - [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](https://drive.google.com/file/d/1IpYDx3r32s8wlHBDvgh4vndn_LATqF2n/view?usp=sharing) 
 - [**Robust Python**](https://drive.google.com/file/d/1hR8h4KzK1L18CA_ral_5vdnydup-4cGE/view?usp=sharing) (*1st Edition*)
 
