@@ -46,7 +46,6 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 
 - [**Expert Python Programming**](https://drive.google.com/file/d/1ER9iFwUlm5vJ2dY4e__TCUmDRIE1riGE/view?usp=sharing) (*4th Edition*)
 - [**Fluent Python**](https://drive.google.com/file/d/1EqAKCmgiWFj_NAAlUxx9mF0h2rSs3Ngf/view?usp=sharing) (*2nd Edition*)
-- [**Architecture Patterns with Python**](https://drive.google.com/file/d/1Q_nliXhHs9fkZCHFHgwvWj1uJeYxr-k5/view?usp=sharing) (*Latest Edition*)
 - [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](https://drive.google.com/file/d/1IpYDx3r32s8wlHBDvgh4vndn_LATqF2n/view?usp=sharing) 
 - [**Robust Python**](https://drive.google.com/file/d/1hR8h4KzK1L18CA_ral_5vdnydup-4cGE/view?usp=sharing) (*1st Edition*)
 - [**Python Microservices Development**](https://drive.google.com/file/d/1muURujieIYs-2X5nyfnGlUv-6N5T8uGV/view?usp=sharing) (*2nd Edition*)
@@ -55,25 +54,55 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 
 Focus on applying Python to a specific professional domain like Data Science, Cybersecurity, NLP, Cloud/DevOps, Machine Learning, or Web Development.
 
-- [**Deep Learning with Python**](https://deeplearningwithpython.io/) (*Latest Edition*)
-- [**Clean Code in Python**](https://drive.google.com/file/d/1ECxFQB2lWIv6CdYiC6cOJkDV53VeV7ia/view?usp=sharing) (*2nd Edition*)
 - [**Python for Data Analysis**](https://drive.google.com/file/d/1EhoR0GurifXZUgZRyrROBw1-pR0aPy_B/view?usp=sharing) (*3rd Edition*)
-- [**Natural Language Processing with Transformers**](https://drive.google.com/file/d/1a3pv09qyxMtJxSnfZwSOrqXf8zt4dQO8/view?usp=sharing) (*Revised Edition*)
+- [**Python Data Science Handbook**](https://drive.google.com/file/d/1dXDoiPg9N4VGBgFLllYixG2p58IfKzqe/view?usp=sharing) (*2nd Edition*)
+- [**Effective Pandas 2**](LINK) (*2024/2025 Edition*)
+- [**Building Data Science Applications with FastAPI**](LINK)
+<br>
+- [**Python for Finance**](LINK) (*2nd Edition*)
+- [**Advances in Financial Machine Learning**](LINK)
+<br>
+- [**Black Hat Python**](https://drive.google.com/file/d/1A-6FFzKsKH8KBWKe-Xex6x3nKUJRttpn/view?usp=sharing) (*2nd Edition*)
+- [**Python for Cybersecurity**](LINK) (**1st Edition - 2024/2025**)
+- [**Violent Python**](LINK)
+<br>
 - [**Python for DevOps**](https://drive.google.com/file/d/1wbWMACWbiBHWHiarr8FY2lJ9v3fuzXVr/view?usp=sharing) (*1st Edition*)
+- [**Architecture Patterns with Python**](https://drive.google.com/file/d/1Q_nliXhHs9fkZCHFHgwvWj1uJeYxr-k5/view?usp=sharing) (*Latest Edition*)
+- [**Clean Code in Python**](https://drive.google.com/file/d/1ECxFQB2lWIv6CdYiC6cOJkDV53VeV7ia/view?usp=sharing) (*2nd Edition*)
+- [**Test-Driven Development with Python**](https://www.obeythetestinggoat.com/) (*"The Testing Goat"*)
+- [**The Recursive Book of Recursion**](LINK)
+<br>
+- [**Learning Robotics using Python**](LINK) (*2nd Edition*)
+- [**Create GUI Applications with Python & Qt6**](https://www.pythonguis.com/book/) (*2025 Edition*)
+- [**Python GUI Programming with Tkinter**](LINK) (*2nd Edition*)
+- [**Raspberry Pi Cookbook**](LINK) (*3rd Edition - 2024*)
+<br>
+- [**Introduction to Machine Learning with Python**](LINK)
 - [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://drive.google.com/file/d/1jMLJE4NA7tdSBIE-KZkWznJxdKQr8UrO/view?usp=sharing) (*3rd Edition*)
+- [**Machine Learning Engineering in Action**](LINK) (*2024/2025*) 
+- [**Deep Learning with Python**](https://deeplearningwithpython.io/) (*Latest Edition*)
+<br>
+- [**Natural Language Processing with Transformers**](https://drive.google.com/file/d/1a3pv09qyxMtJxSnfZwSOrqXf8zt4dQO8/view?usp=sharing) (*Revised Edition*)
+- [**Build a Large Language Model (From Scratch)**]() (*1st Edition - 2025*)
+- [**The LLM Engineering Handbook**](LINK) (*1st Edition - 2025*)
+- [**Generative AI with Python and PyTorch**](LINK) (*2nd Edition - 2025*)
+<br>
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
 - [**Django for Professional**](https://drive.google.com/file/d/1IYtzXesvaaMi2twWpSQlC1Bi0Wdi03YI/view?usp=sharing) (*Latest Edition*)
-- [**Python Data Science Handbook**](https://drive.google.com/file/d/1dXDoiPg9N4VGBgFLllYixG2p58IfKzqe/view?usp=sharing) (*2nd Edition*)
+- [**FastAPI: Modern Python Web Development**](LINK) (*1st Edition - 2024/2025*)
+- [**Two Scoops of Django**](https://www.feldroy.com/books/two-scoops-of-django-3-x) (**3.x Edition**)
 
 
 ## Comprehensive References
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
+- [**Python Pocket Reference**](https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing) (*5th Edition*)
+- [**Python Testing with pytest**](LINK) (*2nd Edition*)
+- [**Beyond the Basic Stuff with Python**](https://inventwithpython.com/beyond/)
 - [**Refactoring Python**](LINK) (*1st Edition - 2025*)
 - [**The Python Standard Library by Example**](LINK) (*2nd Edition*)
 - [**Learning Python**](https://drive.google.com/file/d/1rIJ6NyKuTAM9hgGC2HDoMKaxBVIcAWt-/view?usp=sharing) (*5th Edition*)
-- [**Python Pocket Reference**](https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing) (*5th Edition*)
 
 ---
 
