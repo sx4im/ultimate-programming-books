@@ -73,55 +73,53 @@ These massive, detailed guides are best used as companions throughout your learn
 These books are perfect for those new to programming or just starting with JavaScript.
 
 - [**Eloquent JavaScript**](https://drive.google.com/file/d/1Z8AS0zomMHxPY1wbcE6vCp7aD_s0oqxq/view?usp=drive_link) (*4th Edition*)
-    - A modern, comprehensive introduction to JavaScript, programming, and the browser. The full book is available for free online.
-- [**JavaScript & JQuery: Interactive Front-End Web Development**](https://drive.google.com/file/d/1IpgSkjIuQ02eg2bFiO4mvGdfMHp66nPp/view?usp=drive_link) (*Latest Edition*)
-    - A beautifully designed, visual book that makes learning the fundamentals of front-end development engaging and fun.
-- [**Head First JavaScript Programming**](https://drive.google.com/file/d/17OnxxFaq0KL-JFK_W41EBtOSeH4XBaSr/view?usp=drive_link) (*Latest Edition*)
-    - Uses a brain-friendly, visual approach to teach the core concepts of the language in a way that sticks.
-
+- [**JavaScript & JQuery: Interactive Front-End Web Development**](https://drive.google.com/file/d/1IpgSkjIuQ02eg2bFiO4mvGdfMHp66nPp/view?usp=drive_link) (*2nd Edition*)
+- [**Head First JavaScript Programming**](https://drive.google.com/file/d/1fYezQ9QtxOqnS_99ETaWVYMlOPsUtJfF/view?usp=sharing) (*2nd Edition*)
+- [**A Smarter Way to Learn JavaScript**](https://drive.google.com/file/d/1skBO-GQHUkffKL57VDDVIM6KoICQIQF3/view?usp=sharing) (*1st Edition*)
 
 ## For Intermediate Developers
 
 These books will help you move beyond the basics to understand the core mechanics and write more effective code.
 
-- [**You Don't Know JS Yet Series**](https://drive.google.com/drive/folders/1KVPu5zMerN2ky7_NaVDq6I5N2ZJXbPN0?usp=drive_link) (*2nd Edition Series*)
-    - A famous series of books that dives deep into JavaScript's core mechanisms like scope, closures, `this`, and prototypes. Essential for a true understanding.
+- [**You Don't Know JS Yet Series**](https://drive.google.com/drive/folders/1KVPu5zMerN2ky7_NaVDq6I5N2ZJXbPN0?usp=drive_link) (*Complete Series*)
 - [**JavaScript: The Good Parts**](https://drive.google.com/file/d/19bfwUL8aTigDnEYxNFqpmX6y1uIo2WyO/view?usp=drive_link) (*Latest Edition*)
-    - A classic, concise book by Douglas Crockford that focuses on the elegant and powerful features of JavaScript while warning against its pitfalls.
-- [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](https://drive.google.com/file/d/1dTfT3r_Ds2dEGW0bx0h9YK7iMzq5bJ7g/view?usp=drive_link) (*Latest Edition*)
-    - Provides specific, actionable advice and best practices for writing solid, professional JavaScript code.
-
-
+- [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](https://drive.google.com/file/d/1dTfT3r_Ds2dEGW0bx0h9YK7iMzq5bJ7g/view?usp=sharing) 
+- [**JavaScript for Impatient Programmers**](https://exploringjs.com/js/book/index.html) (*ES2025 Edition*)
+- [**The Principles of Object-Oriented JavaScript**](https://drive.google.com/file/d/1vzjR18Q0iYvfPPaZxU1nG8QkHATMDbNz/view?usp=sharing)
+  
 ## For Advanced Programmers
 
 Explore advanced patterns, application architecture, and the functional side of the language.
 
 - [**Learning JavaScript Design Patterns**](https://drive.google.com/file/d/1W6yznBiKcXJEtdGO-r4bE4cB12N1YHYP/view?usp=drive_link) (*2nd Edition*)
-    - An O'Reilly book that teaches you how to apply classic and modern design patterns to build robust and applications.
-- [**Node.js Design Patterns**](https://drive.google.com/file/d/1oOnmbcRtCA8Z4fWxJPxyvsSC0gpAaRc6/view?usp=drive_link) (*3rd Edition*)
-    - The definitive guide to building scalable, production-ready server-side applications with Node.js.
-- [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](https://drive.google.com/file/d/1QkHLENfNrpfBkdjQ2M5miqSpHrSWyDyg/view?usp=drive_link) (*Latest Edition*)
-    - A fun and accessible introduction to functional programming concepts using JavaScript. Available for free online.
-
-
+- [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](https://drive.google.com/file/d/1QkHLENfNrpfBkdjQ2M5miqSpHrSWyDyg/view?usp=drive_link)
+- [**Deep JavaScript: Theory and Techniques**](https://drive.google.com/file/d/1nXLMDa3K--8Eqnoki47UqH4sWAO2KQ78/view?usp=sharing) (*1st Edition*)
+- [**Secrets of the JavaScript Ninja**](https://drive.google.com/file/d/1wyQfSbgCw73x43rDkMWkT8p2kWCkj-N7/view?usp=sharing) (*2nd Edition*)
+- [**Learning JavaScript: JavaScript Essentials for Modern Application Development**](https://drive.google.com/file/d/1o-FP2qw_IVXqnjDnDf1SLu9H7hD7PyYg/view?usp=sharing) (*3rd Edition*)
+- [**Hands-On JavaScript High Performance**](https://drive.google.com/file/d/1NIZE8OGQdnrAqTqtYaBcJJ_p4yVAtkgM/view?usp=sharing)
+- [**Multithreaded JavaScript**](https://drive.google.com/file/d/1GI9qWhNyTl81wzPwl7w27hmvOLh9qfDA/view?usp=sharing) (*1st Edition*)
+  
 ## For Specialized Fields
 
 Focus on applying JavaScript to a specific domain, particularly popular front-end frameworks.
 
+- [**The Road to React**](https://drive.google.com/file/d/1zc4CH0AjIewkVTdqqZ5uJby8fGOGYDnB/view?usp=sharing) (*2023 Edition*)
+- [**Efficient Node.js: A Beyond-the-Basics Guide**](https://drive.google.com/file/d/1xb98X17vjQMhe0_AvioEoABruQcEt3tk/view?usp=sharing) (*1st Edition*)
+- [**Web Development with Node and Express**](https://drive.google.com/file/d/13u-aBTDYEEExZdewZLV1Ejytij92q0vJ/view?usp=sharing) (*2nd Edition*)
 - [**Learning React**](https://drive.google.com/file/d/1cFv5MXLNO83YBiYpftcHU6lxR4chkV__/view?usp=drive_link) (*2nd Edition*)
-    - A modern, hands-on guide from O'Reilly for building applications with the React library.
 - [**Fullstack Vue**](https://drive.google.com/file/d/1uxzVmhe5w1GfDB3ZAgKIbAYS0IzIG5Yd/view?usp=drive_link) (*3rd Edition*)
-    - A comprehensive guide that covers everything you need to know to build professional applications with Vue.js.
-
-
+- [**Web Security for Developers**](https://drive.google.com/file/d/1O3KspVdZxUyb4Jh-hSRia1z1Byn4KK4W/view?usp=sharing) (*1st Edition*)
+- [**Node.js Design Patterns**](https://drive.google.com/file/d/1oOnmbcRtCA8Z4fWxJPxyvsSC0gpAaRc6/view?usp=drive_link) (*3rd Edition*)
+- [**Distributed Systems with Node.js**](https://drive.google.com/file/d/1-kv7DoiTzvekT2ybyHB7VthGCBI7sgiD/view?usp=sharing)
+- [**Node Cookbook**](https://drive.google.com/file/d/1AGacLG8k6DlnjJc39YKpHjUfKkD-zMmf/view?usp=sharing) (*4th Edition*)
+  
 ## Comprehensive References
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
+- [**MDN Web Docs**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (*Living Documentation*)
 - [**JavaScript: The Definitive Guide**](https://drive.google.com/file/d/1ZlTJ_sVZst1Hp0o-TSQUM8DsdkpK7Ieq/view?usp=drive_link) (*7th Edition*)
-    - O'Reilly's exhaustive, bible-like reference for the entire JavaScript language and browser APIs.
 - [**JavaScript Pocket Reference**](https://drive.google.com/file/d/1TLqPvemKX4PaRs2zA5JN_09Vvb17BPTU/view?usp=drive_link) (*3rd Edition*)
-    - A concise and convenient O'Reilly guide for quick lookups of syntax and core features.
 
 ---
 
