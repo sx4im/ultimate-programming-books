@@ -22,10 +22,10 @@
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
-- [**Python for Everybody**](https://drive.google.com/file/d/1naeZ-Ba4ce5acu32-GvJXjNbl65o439f/view?usp=sharing) (*Latest Edition*)
+- [**Python for Everyone**](https://drive.google.com/file/d/1uQAJEhukgO4JmJGMJpKM_jqxNLX7NM8_/view?usp=sharing) (*3rd Edition*)
 - [**Python Crash Course**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
-- [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1NbLN0H0_nait6xOildlg0RSehU5PXzDP/view?usp=sharing) (*2nd Edition*)
-- [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/12MLwA-BqS-jscalPhWnf2JKK5JC74V6g/view?usp=sharing) (*2nd Edition*)
+- [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1NbLN0H0_nait6xOildlg0RSehU5PXzDP/view?usp=sharing) (*3rd Edition*)
+- [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/1-_8Zcoh2K9iIY2yQ_kcnuXw5d187wk8b/view?usp=sharing) (*3rd Edition*)
 - [**Head First Python**](https://drive.google.com/file/d/1FY7tFJ_TqOqokSHfUZwiDfUt_IzIYBfQ/view?usp=sharing) (*3rd Edition*)
 - [**Learn Python 3 the Hard Way**](https://drive.google.com/file/d/18DYbGGuxNqtcXHXpncT2dE-I6N1czoKe/view?usp=sharing) (*5th Edition*)
 
@@ -85,7 +85,7 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**LLM Engineer's Handbook**](https://drive.google.com/file/d/1Yfzv4pICwMugTm11xPleiLwgR3TPePLv/view?usp=sharing) (*1st Edition*)
 - [**Generative AI with Python and PyTorch**](https://drive.google.com/file/d/1twRF-j2ktalTCE89ThfI51eHzp64kf6w/view?usp=sharing) (*2nd Edition*)
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
-- [**Django for Professional**](https://drive.google.com/file/d/1IYtzXesvaaMi2twWpSQlC1Bi0Wdi03YI/view?usp=sharing) (*Latest Edition*)
+- [**Django for Professional**](https://drive.google.com/file/d/1IYtzXesvaaMi2twWpSQlC1Bi0Wdi03YI/view?usp=sharing) (*4.0 Edition*)
 - [**FastAPI: Modern Python Web Development**](https://drive.google.com/file/d/1HTXonEDa0utaa1ewACDhClS_AIstECEz/view?usp=sharing) (*1st Edition*)
 - [**Two Scoops of Django**](https://drive.google.com/file/d/1lz1_ww3kNobzHqCjYpfnk8gYwFqNzgfq/view?usp=sharing) (**3.x Edition**)
 
