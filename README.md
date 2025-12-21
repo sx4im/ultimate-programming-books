@@ -59,12 +59,15 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Effective Pandas 2**](LINK) (*2024/2025 Edition*)
 - [**Building Data Science Applications with FastAPI**](LINK)
 
+
 - [**Python for Finance**](LINK) (*2nd Edition*)
 - [**Advances in Financial Machine Learning**](LINK)
+
 
 - [**Black Hat Python**](https://drive.google.com/file/d/1A-6FFzKsKH8KBWKe-Xex6x3nKUJRttpn/view?usp=sharing) (*2nd Edition*)
 - [**Python for Cybersecurity**](LINK) (**1st Edition - 2024/2025**)
 - [**Violent Python**](LINK)
+
 
 - [**Python for DevOps**](https://drive.google.com/file/d/1wbWMACWbiBHWHiarr8FY2lJ9v3fuzXVr/view?usp=sharing) (*1st Edition*)
 - [**Architecture Patterns with Python**](https://drive.google.com/file/d/1Q_nliXhHs9fkZCHFHgwvWj1uJeYxr-k5/view?usp=sharing) (*Latest Edition*)
