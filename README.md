@@ -35,7 +35,7 @@ These books are perfect if you are new to programming or new to Python. They req
 Once you know the basics, these books will help you write more effective, idiomatic, and professional code.
 
 - [**The Quick Python Book**](https://drive.google.com/file/d/1Iqq_s71shEtgb5j7Y0g2-7gFU-UMtjiH/view?usp=sharing) (*4th Edition*)
-- [**Effective Python: 90 Specific Ways to Write Better Python**](https://drive.google.com/file/d/1W-qIUtJ3DOOLQGg86m_t8gBVGrjz8OrI/view?usp=sharing) (*2nd Edition*)
+- [**Effective Python: 125 Specific Ways to Write Better Python**](https://drive.google.com/file/d/104VUEoNCp00NPc4-3h3QtDUb7xIM9Qrb/view?usp=sharing) (*3rd Edition*)
 - [**Python Cookbook**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
 - [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
 - [**Python Tricks: A Buffet of Awesome Features**](https://drive.google.com/file/d/155g_0vl_JzQdRzg_KfpY9qPsb65LFL0S/view?usp=sharing) (*Latest Edition*)
@@ -82,7 +82,7 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Deep Learning with Python**](https://drive.google.com/file/d/1wmqeThVLxX5SgRmioQcXGdRdBC6vN_Y7/view?usp=sharing) (*3rd Edition*)
 - [**Natural Language Processing with Transformers**](https://drive.google.com/file/d/1a3pv09qyxMtJxSnfZwSOrqXf8zt4dQO8/view?usp=sharing) (*Revised Edition*)
 - [**Build a Large Language Model (From Scratch)**](https://drive.google.com/file/d/1qgnbndzOPoViT4eJ7gU9bWkTkF1CjN0O/view?usp=sharing) (*1st Edition*)
-- [**the LLM Engineer's Handbook**](https://drive.google.com/file/d/1Yfzv4pICwMugTm11xPleiLwgR3TPePLv/view?usp=sharing) (*1st Edition*)
+- [**LLM Engineer's Handbook**](https://drive.google.com/file/d/1Yfzv4pICwMugTm11xPleiLwgR3TPePLv/view?usp=sharing) (*1st Edition*)
 - [**Generative AI with Python and PyTorch**](https://drive.google.com/file/d/1twRF-j2ktalTCE89ThfI51eHzp64kf6w/view?usp=sharing) (*2nd Edition*)
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
 - [**Django for Professional**](https://drive.google.com/file/d/1IYtzXesvaaMi2twWpSQlC1Bi0Wdi03YI/view?usp=sharing) (*Latest Edition*)
@@ -98,7 +98,7 @@ These massive, detailed guides are best used as companions throughout your learn
 - [**Beyond the Basic Stuff with Python**](https://drive.google.com/file/d/1txbFLEtmJrp4H9P7oUC048jwLUPOYHBa/view?usp=sharing)
 - [**Refactoring: Improving the Design of Existing Code**](https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing) (*2nd Edition*)
 - [**Clean Architecture with Python**](https://drive.google.com/file/d/10vEHHNbhFzPcyoUzf00xrYkUT_A5RAti/view?usp=sharing) (*2025 Edition*)
-- [**The Python 3 Standard Library by Example**]() (*2nd Edition*)
+- [**The Python 3 Standard Library by Example**](https://drive.google.com/file/d/134t_JdiXzJ6vKcEjaprmm8X7uCs7AHjH/view?usp=sharing)
 - [**Learning Python**](https://drive.google.com/file/d/1rIJ6NyKuTAM9hgGC2HDoMKaxBVIcAWt-/view?usp=sharing) (*5th Edition*)
 
 ---
