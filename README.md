@@ -38,18 +38,21 @@ Once you know the basics, these books will help you write more effective, idioma
 - [**Effective Python: 90 Specific Ways to Write Better Python**](https://drive.google.com/file/d/1W-qIUtJ3DOOLQGg86m_t8gBVGrjz8OrI/view?usp=sharing) (*2nd Edition*)
 - [**Python Cookbook**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
 - [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
-
+- [**Python Tricks: A Buffet of Awesome Features**](https://drive.google.com/file/d/155g_0vl_JzQdRzg_KfpY9qPsb65LFL0S/view?usp=sharing) (*Latest Edition*)
 
 ## For Advanced Programmers
 
 Dive deep into Python's features, concurrency, and learn to design robust, large-scale applications.
 
+- [**High Performance Python**](https://www.oreilly.com/library/view/high-performance-python/9781492055013/) (*2nd Edition*)
 - [**Expert Python Programming**](https://drive.google.com/file/d/1ER9iFwUlm5vJ2dY4e__TCUmDRIE1riGE/view?usp=sharing) (*4th Edition*)
 - [**Fluent Python**](https://drive.google.com/file/d/1EqAKCmgiWFj_NAAlUxx9mF0h2rSs3Ngf/view?usp=sharing) (*2nd Edition*)
 - [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](https://drive.google.com/file/d/1IpYDx3r32s8wlHBDvgh4vndn_LATqF2n/view?usp=sharing) 
 - [**Robust Python**](https://drive.google.com/file/d/1hR8h4KzK1L18CA_ral_5vdnydup-4cGE/view?usp=sharing) (*1st Edition*)
 - [**Python Microservices Development**](https://drive.google.com/file/d/1muURujieIYs-2X5nyfnGlUv-6N5T8uGV/view?usp=sharing) (*2nd Edition*)
-  
+- [**Python Concurrency with asyncio**](https://drive.google.com/file/d/10ke1suH-FHzaDrW7T0Ey1d_DrBoBDQYG/view?usp=sharing) (*Latest Edition*)
+- [**CPython Internals**](https://drive.google.com/file/d/1dcPzFC2bmL1WQ7PzGZu8iuVRkZHYT0_0/view?usp=sharing) (*Latest Edition*)
+
 ## For Specialized Fields
 
 Focus on applying Python to a specific professional domain like Data Science, Cybersecurity, NLP, Cloud/DevOps, Machine Learning, or Web Development.
@@ -61,7 +64,7 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Python for Finance**](LINK) (*2nd Edition*)
 - [**Advances in Financial Machine Learning**](LINK)
 - [**Black Hat Python**](https://drive.google.com/file/d/1A-6FFzKsKH8KBWKe-Xex6x3nKUJRttpn/view?usp=sharing) (*2nd Edition*)
-- [**Python for Cybersecurity**](LINK) (**1st Edition - 2024/2025**)
+- [**Python for Cybersecurity**](LINK) (*1st Edition - 2024/2025*)
 - [**Violent Python**](LINK)
 - [**Python for DevOps**](https://drive.google.com/file/d/1wbWMACWbiBHWHiarr8FY2lJ9v3fuzXVr/view?usp=sharing) (*1st Edition*)
 - [**Architecture Patterns with Python**](https://drive.google.com/file/d/1Q_nliXhHs9fkZCHFHgwvWj1uJeYxr-k5/view?usp=sharing) (*Latest Edition*)
@@ -73,6 +76,7 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Python GUI Programming with Tkinter**](LINK) (*2nd Edition*)
 - [**Raspberry Pi Cookbook**](LINK) (*3rd Edition - 2024*)
 - [**Introduction to Machine Learning with Python**](LINK)
+- [**Designing Machine Learning Systems**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://drive.google.com/file/d/1jMLJE4NA7tdSBIE-KZkWznJxdKQr8UrO/view?usp=sharing) (*3rd Edition*)
 - [**Machine Learning Engineering in Action**](LINK) (*2024/2025*) 
 - [**Deep Learning with Python**](https://deeplearningwithpython.io/) (*Latest Edition*)
