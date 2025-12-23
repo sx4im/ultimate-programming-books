@@ -10,11 +10,9 @@
 </div>
 
 ---
-<div align="center">
 
 ### ⭐ Before You Download
 *Please **support this project** by giving it a star on GitHub.* 
-</div>
 
 ---
 
