@@ -36,6 +36,8 @@ Once you know the basics, these books will help you write more effective, idioma
 
 - [**The Quick Python Book**](https://drive.google.com/file/d/1Iqq_s71shEtgb5j7Y0g2-7gFU-UMtjiH/view?usp=sharing) (*4th Edition*)
 - [**Effective Python: 125 Specific Ways to Write Better Python**](https://drive.google.com/file/d/104VUEoNCp00NPc4-3h3QtDUb7xIM9Qrb/view?usp=sharing) (*3rd Edition*)
+- [**Refactoring: Improving the Design of Existing Code**](https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing) (*2nd Edition*)
+- [**Clean Architecture with Python**](https://drive.google.com/file/d/10vEHHNbhFzPcyoUzf00xrYkUT_A5RAti/view?usp=sharing) (*2025 Edition*)
 - [**Python Cookbook**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
 - [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
 - [**Python Tricks: A Buffet of Awesome Features**](https://drive.google.com/file/d/155g_0vl_JzQdRzg_KfpY9qPsb65LFL0S/view?usp=sharing) (*Latest Edition*)
@@ -95,10 +97,8 @@ These massive, detailed guides are best used as companions throughout your learn
 
 - [**Python Pocket Reference**](https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing) (*5th Edition*)
 - [**Python Testing with pytest**](https://drive.google.com/file/d/1CanVLEhQ_XOgrq4YRm2fRUkfWx07CqF0/view?usp=sharing) (*2nd Edition*)
-- [**Beyond the Basic Stuff with Python**](https://drive.google.com/file/d/1txbFLEtmJrp4H9P7oUC048jwLUPOYHBa/view?usp=sharing)
-- [**Refactoring: Improving the Design of Existing Code**](https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing) (*2nd Edition*)
-- [**Clean Architecture with Python**](https://drive.google.com/file/d/10vEHHNbhFzPcyoUzf00xrYkUT_A5RAti/view?usp=sharing) (*2025 Edition*)
-- [**The Python 3 Standard Library by Example**](https://drive.google.com/file/d/134t_JdiXzJ6vKcEjaprmm8X7uCs7AHjH/view?usp=sharing)
+- [**Beyond the Basic Stuff with Python**](https://drive.google.com/file/d/1txbFLEtmJrp4H9P7oUC048jwLUPOYHBa/view?usp=sharing) (*First & only edition*)
+- [**The Python 3 Standard Library by Example**](https://drive.google.com/file/d/134t_JdiXzJ6vKcEjaprmm8X7uCs7AHjH/view?usp=sharing) (*First & only edition*)
 - [**Learning Python**](https://drive.google.com/file/d/1rIJ6NyKuTAM9hgGC2HDoMKaxBVIcAWt-/view?usp=sharing) (*5th Edition*)
 
 ---
@@ -176,8 +176,8 @@ These massive, detailed guides are best used as companions throughout your learn
 - [**JavaScript: The Definitive Guide**](https://drive.google.com/file/d/1ZlTJ_sVZst1Hp0o-TSQUM8DsdkpK7Ieq/view?usp=drive_link) (*7th Edition*)
 - [**Professional JavaScript for Web Developers**](https://drive.google.com/file/d/1uGvyYs8Q0Pf5t3v1RGnRKawU7ond7E3K/view?usp=sharing) (*5th Edition*)
 - [**JavaScript ES2015+ Enlightenment**](https://frontendmasters.com/guides/javascript-enlightenment/) (*2025 Digital Edition*)
-- [**JavaScript Allongé**](https://drive.google.com/file/d/1nYPIMuOO-VmPbGNj_WlxSlYim4jFb42u/view?usp=sharing)
-- [**JavaScript: The First 20 Years**](https://drive.google.com/file/d/1iKIRAOUXqzpnQDdpQTx_iwTNBwcpAk8k/view?usp=sharing) 
+- [**JavaScript Allongé**](https://drive.google.com/file/d/1nYPIMuOO-VmPbGNj_WlxSlYim4jFb42u/view?usp=sharing) (*First & only edition*)
+- [**JavaScript: The First 20 Years**](https://drive.google.com/file/d/1iKIRAOUXqzpnQDdpQTx_iwTNBwcpAk8k/view?usp=sharing) (*First & only edition*) 
 - [**MDN Web Docs**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (*Living Documentation*)
 - [**JavaScript Pocket Reference**](https://drive.google.com/file/d/1TLqPvemKX4PaRs2zA5JN_09Vvb17BPTU/view?usp=drive_link) (*3rd Edition*)
 
@@ -188,41 +188,51 @@ These massive, detailed guides are best used as companions throughout your learn
 ## For Beginners
 
 These books are designed for those new to programming or just starting their journey with Java.
+
+- [**Think Java**](https://drive.google.com/file/d/12WxLCFLPzaGS9lqsITIYDtJ6_aJQYT8l/view?usp=sharing) (*2nd Edition*)
+- [**Java 23 for Absolute Beginners**](https://drive.google.com/file/d/1HYoxXWOdgRGbcONJSL-8XWiIWxh3xWu2/view?usp=sharing) (*3rd Edition*)
 - [**Java Programming: From Problem Analysis to Program Design**](https://drive.google.com/file/d/1w5wT5gp7mPmUx1b-lBjdNJIaTx8YqcWF/view?usp=sharing) (*5th Edition*)
-- [**Beginning Java Programming**]() (*7th Edition - 2011*)
+- [**Beginning Java Programming**](https://drive.google.com/file/d/1iGEazJOVTeACMszjqK9c7Vu4WJoceLpa/view?usp=sharing) (*7th Edition - 2011*)
 - [**Head First Java**](https://drive.google.com/file/d/1q9WOzPk3jl1MZq8jH0Ab553HYLchE0ac/view?usp=sharing) (*3rd Edition*)
 - [**Java: A Beginner's Guide**](https://drive.google.com/file/d/12YW6xUFbxuQqIFk69IwIbJhxfd4BsUPU/view?usp=sharing) (*9th Edition*)
-- [**Core Java Volume I — Fundamentals**](https://drive.google.com/file/d/1Wg4jaBfblzrkjL4XIDgvnw4aY7AM-p9E/view?usp=sharing) (*13th Edition*)
-- [**Core Java Volume II — Fundamentals**](https://drive.google.com/file/d/1UBeNIyG0ax3F0lGFwHtNpyqO9iXDgVyE/view?usp=sharing) (*13th Edition*)
 - [**Learning Java**](https://drive.google.com/file/d/1gwDLRPrdqbTp5mrUUdFWiUJFdjQnBPBa/view?usp=drive_link) (*5th Edition*)
 
 ## For Intermediate Developers
 
 Once you understand the syntax, these books will teach you how to write robust, professional, and effective Java code.
 
-- [**Head First Design Patterns**]() (*2nd Edition - 2020*)
+- [**Head First Design Patterns**](https://drive.google.com/file/d/1nI56g93MpgofVd2YCDMYTVCg0Fv4yA5e/view?usp=sharing) (*2nd Edition - 2020*)
 - [**Effective Java**](https://drive.google.com/file/d/1iTI492QvudYpqeitJfNFGbpv_svNSmk5/view?usp=drive_link) (*3rd Edition*)
 - [**Java Cookbook**](https://drive.google.com/file/d/1dVX0IMKequlab-Y57dBkX0Oljt812XQ4/view?usp=drive_link) (*4th Edition*)
-- [**Test-Driven Development: By Example**]() (*1st Edition*)
-- [**Core Java Volume II — Advanced Features**](https://drive.google.com/file/d/1UBeNIyG0ax3F0lGFwHtNpyqO9iXDgVyE/view?usp=drive_link) (*13th Edition*)
+- [**Refactoring: Improving the Design of Existing Code**](https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing) (*2nd Edition*)
+- [**Clean Code: A Handbook of Agile Software Craftsmanship**](https://drive.google.com/file/d/1jAFSAsQvjG4LyKf4SBeWGmHyRckImkdR/view?usp=sharing) (*First & only edition*)
+- [**Core Java Volume I — Fundamentals**](https://drive.google.com/file/d/1Wg4jaBfblzrkjL4XIDgvnw4aY7AM-p9E/view?usp=sharing) (*13th Edition*)
+- [**Core Java Volume II — Advanced Features**](https://drive.google.com/file/d/1UBeNIyG0ax3F0lGFwHtNpyqO9iXDgVyE/view?usp=sharing) (*13th Edition*)
 - [**The Well-Grounded Java Developer**](https://drive.google.com/file/d/1pLhjwG9rYLzr3PHwaCREk_Scyrn483-y/view?usp=drive_link) (*2nd Edition*)
 - [**100 Java Mistakes and How to Avoid Them**](https://drive.google.com/file/d/1QoNRXcqkdB-Yi9X4ZK0Qsu6H19d0tknq/view?usp=sharing) (*2023 Edition*)
 
 ## For Advanced Programmers
 
 These books tackle complex topics like concurrency, performance, and application architecture.
-
-- [**Java Concurrency in Practice**](https://drive.google.com/file/d/1JEkaIZsE2iG0ea6-6nk9VGwzG0tHKX0a/view?usp=drive_link) (*1st Edition*)
-- [**Java Performance: The Definite Guide**](https://drive.google.com/file/d/1k2MPlfWezaw7spPbCiCxf1ln8QIbIOXG/view?usp=drive_link) (*2nd Edition*)
+- [**Test-Driven Development: By Example**](https://drive.google.com/file/d/1zqmpNXHIthz6HqqEG6162Oa1rZLpftLV/view?usp=sharing) (*1st Edition*)
+- [**Effective Unit Testing**](https://www.manning.com/books/effective-unit-testing)
+- [**Oracle Certified Professional Java SE 21 Developer Study**](https://drive.google.com/file/d/18TQlpzzIgXYg0Y6jELXUCFAvmjjk5tDw/view?usp=sharing) (*Official Modern Reference*)
+- [**Patterns of Enterprise Application Architecture (PEAA)**](https://drive.google.com/file/d/1yvaVkOGWxvZXTbgWLvQXfU3L8mxTUF-D/view?usp=sharing) (*First & only edition*)
+- [**Java Concurrency in Practice**](https://drive.google.com/file/d/1JEkaIZsE2iG0ea6-6nk9VGwzG0tHKX0a/view?usp=drive_link) (*First & only edition*) 
+- [**Agile Software Development, Principles, Patterns, and Practices**](https://www.oreilly.com/library/view/agile-software-development/0135974445/) (*First & only edition*)
+- [**Java Performance: In-Depth Advice for Tuning and Optimization**](https://drive.google.com/file/d/1k2MPlfWezaw7spPbCiCxf1ln8QIbIOXG/view?usp=sharing) (*2nd Edition*)
 - [**Modern Java in Action**](https://drive.google.com/file/d/1sO6NWk89jc-_5xXbCwyl7f0qqX2l2p4b/view?usp=sharing) (*First & only edition*)
-- [**Java Puzzlers: Traps, Pitfalls, and Corner Cases**](http://www.javapuzzlers.com/) (*First & only edition*)
-- [**Release It!: Design and Deploy Production-Ready Software**]() (*2nd Edition*)
+- [**Java Puzzlers: Traps, Pitfalls, and Corner Cases**](https://drive.google.com/file/d/1NvtCmqNS270XmtOjtUuPU55CqLvEgFSK/view?usp=sharing) (*First & only edition*)
+- [**Release It!: Design and Deploy Production-Ready Software**](https://drive.google.com/file/d/1KzGpznPxWJFKrxtJbAQIR6Pr0GvYq0G_/view?usp=sharing) (*2nd Edition*)
 - [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/) (*1994 edition*)
 
 ## For Specialized Fields
 
 Focus on applying Java to a specific professional domain, particularly with the Spring Framework.
 
+- [**Java Performance Companion**](https://drive.google.com/file/d/10nMOO0E_LCEpb-IRnrABJMkEq-46ntR6/view?usp=sharing) (*First & only edition*)
+- [**Java Memory Management**]() (*First & only edition*)
+- [**Spring Boot in Practice**](https://drive.google.com/file/d/15p73C6avjiFS5VwIf2g9a0rKxuzAx9gR/view?usp=sharing) (*2022 Edition*)
 - [**Spring in Action**](https://drive.google.com/file/d/1e-gRL-z2JlTRmSJ4c17mgTUFgurl_cqe/view?usp=drive_link) (*6th Edition*)
 - [**Optimizing Cloud Native Java**](https://drive.google.com/file/d/1Amh1f_WCTCFIdiD9P9xaPHKgEzC6X1SQ/view?usp=sharing) (*2nd Edition*)
 - [**Spring Security in Action**](https://drive.google.com/file/d/11I4zGm0Fye0cu_Elsg7iCacab_R5JkOx/view?usp=sharing) (*2nd Edition*)
@@ -233,7 +243,6 @@ Focus on applying Java to a specific professional domain, particularly with the 
 - [**Quarkus in Action**](https://drive.google.com/file/d/1dSOkdgYGizQoV88kCbSLk9-X1pCu3YDp/view?usp=sharing) (*1st Edition - 2025*)
 - [**The Java Language Specification**](https://drive.google.com/file/d/1dNz2rhQ89eYcrvoqd9VWdBD_qbBSwCnz/view?usp=sharing) (*Java SE 19 Edition*)
 - [**Spring Microservices in Action**](https://drive.google.com/file/d/1qfgjmGruyZre1Z7pt7F5u6ApFXFQgfVU/view?usp=sharing) (*2nd Edition*)
-- [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://drive.google.com/file/d/1Cvrr4sUFonUDurxl-fL7xkmgN3yiRoNe/view?usp=drive_link) (*First & only edition*)
 - [**High-Performance Java Persistence**](https://drive.google.com/file/d/1XWmZbXC2c7HpSvkp5XZ5Cy6YWUlqQYwM/view?usp=drive_link) (*New Edition*)
 - [**JUnit in Action**](https://drive.google.com/file/d/1Pnv6bQUlfIAK8M2DgfnUlzg2XRHZmesq/view?usp=sharing) (*3rd Edition*)
 
@@ -241,6 +250,11 @@ Focus on applying Java to a specific professional domain, particularly with the 
 
 A massive, detailed guide that is best used as a companion throughout your learning journey.
 
+- [**The Art of Multiprocessor Programming**](https://www.elsevier.com/books/the-art-of-multiprocessor-programming/herlihy/978-0-12-397337-5) (*Revised Edition*)
+- [**Modern Concurrency in Java: Virtual Threads, Structured Concurrency, and Beyond**]() (*2025 Release*)
+- [**Java Structured Concurrency**](https://www.packtpub.com/en-us/product/java-structured-concurrency-9781806105038) (**2025 Edition**)
+- [**Virtual Threads, Structured Concurrency, and Scoped Values**](https://link.springer.com/book/10.1007/979-8-8688-0499-1) (**2024/2025**)
+- [**Mastering Java Concurrency: Threads, Synchronization, and Parallel Processing**](LINK) (**2025 Edition**)
 - [**Java: The Complete Reference**]() (*13th Edition*)
 - [**Java in a Nutshell**](https://drive.google.com/file/d/1qIPTpVltTi02m6QdRvynIDtgr0HVE80n/view?usp=sharing) (*8th Edition*)
 - [**Java Pocket Guide**](https://drive.google.com/file/d/11F1OMndhAHvHTLXDd2HbU4KvLk2JZtWt/view?usp=drive_link) (*5th Edition*)
