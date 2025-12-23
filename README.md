@@ -255,7 +255,7 @@ A massive, detailed guide that is best used as a companion throughout your learn
 - [**Java Structured Concurrency**](https://www.packtpub.com/en-us/product/java-structured-concurrency-9781806105038) (**2025 Edition**)
 - [**Virtual Threads, Structured Concurrency, and Scoped Values**](https://link.springer.com/book/10.1007/979-8-8688-0499-1) (**2024/2025**)
 - [**Mastering Java Concurrency: Threads, Synchronization, and Parallel Processing**](LINK) (**2025 Edition**)
-- [**Java: The Complete Reference**]() (*13th Edition*)
+- [**Java: The Complete Reference**](https://drive.google.com/file/d/1auXGujIKKFyw0WU9xB07LyX4Oz2h_yPb/view?usp=sharing) (*13th Edition*)
 - [**Java in a Nutshell**](https://drive.google.com/file/d/1qIPTpVltTi02m6QdRvynIDtgr0HVE80n/view?usp=sharing) (*8th Edition*)
 - [**Java Pocket Guide**](https://drive.google.com/file/d/11F1OMndhAHvHTLXDd2HbU4KvLk2JZtWt/view?usp=drive_link) (*5th Edition*)
 
