@@ -785,101 +785,31 @@ Focused on professional domains like app architecture, test-driven development, 
 
 ---
 
-# 17. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30"/> Perl
-- [Learning Perl (Beginner)](PDF_LINK)
-- [Intermediate Perl (Intermediate)](PDF_LINK)
-- [Mastering Perl (Advanced)](PDF_LINK)
-
----
-
-# 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30"/> Haskell
-- [Learn You a Haskell for Great Good! (Beginner)](PDF_LINK)
-- [Programming in Haskell (Intermediate)](PDF_LINK)
-- [Real World Haskell (Advanced)](PDF_LINK)
-
----
-
-# 19. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30"/> Elixir
+# 17. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30"/> Elixir
 - [Programming Elixir (Beginner)](PDF_LINK)
 - [Elixir in Action (Intermediate)](PDF_LINK)
 - [Metaprogramming Elixir (Advanced)](PDF_LINK)
 
 ---
 
-# 20. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="30"/> Clojure
-- [Clojure for the Brave and True (Beginner)](PDF_LINK)
-- [Living Clojure (Intermediate)](PDF_LINK)
-- [Mastering Clojure (Advanced)](PDF_LINK)
-  
----
-
-# 21. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30"/> Shell (Bash)
+# 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30"/> Shell (Bash)
 - [Learning the bash Shell (Beginner)](PDF_LINK)
 - [Classic Shell Scripting (Intermediate)](PDF_LINK)
 - [Mastering Unix Shell Scripting (Advanced)](PDF_LINK)
 
 ---
 
-# 22. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30"/> MATLAB
-- [MATLAB for Engineers (Beginner)](PDF_LINK)
-- [Programming in MATLAB (Intermediate)](PDF_LINK)
-- [MATLAB: Advanced Guide (Advanced)](PDF_LINK)
-
----
-
-# 23. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/> R
+# 19. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/> R
 - [R for Data Science (Beginner)](PDF_LINK)
 - [Advanced R (Intermediate)](PDF_LINK)
 - [The Art of R Programming (Advanced)](PDF_LINK)
 
 ---
 
-# 24. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30"/> Lua
-- [Programming in Lua (Beginner)](PDF_LINK)
-- [Lua Programming Gems (Intermediate)](PDF_LINK)
-- [Game Development with Lua (Advanced)](PDF_LINK)
-
----
-
-# 25. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30"/> Julia
+# 20. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30"/> Julia
 - [Think Julia (Beginner)](PDF_LINK)
 - [Julia Programming Projects (Intermediate)](PDF_LINK)
 - [Mastering Julia (Advanced)](PDF_LINK)
-
----
-
-# 26. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="30"/> Fortran
-- [Modern Fortran Explained (Beginner)](PDF_LINK)
-- [Fortran 95/2003 for Scientists (Intermediate)](PDF_LINK)
-- [Advanced Fortran (Advanced)](PDF_LINK)
-
----
-
-# 27. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30"/> Objective-C
-- [Programming in Objective-C (Beginner)](PDF_LINK)
-- [Effective Objective-C 2.0 (Intermediate)](PDF_LINK)
-- [Advanced Objective-C (Advanced)](PDF_LINK)
-
----
-
-# 28. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="30"/> OCaml
-- [OCaml from the Very Beginning (Beginner)](PDF_LINK)
-- [Real World OCaml (Intermediate)](PDF_LINK)
-- [Mastering OCaml (Advanced)](PDF_LINK)
-
----
-
-# 29. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="30"/> F#
-- [Get Programming with F# (Beginner)](PDF_LINK)
-- [Expert F# (Intermediate)](PDF_LINK)
-- [F# Deep Dive (Advanced)](PDF_LINK)
-
----
-  
-# 30. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apl/apl-original.svg" height="30"/> APL
-- [Mastering Dyalog APL (Beginner)](PDF_LINK)
-- [APL in Depth (Intermediate)](PDF_LINK)
-- [Advanced APL Techniques (Advanced)](PDF_LINK)
 
 ---
 
