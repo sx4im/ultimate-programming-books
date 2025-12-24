@@ -813,13 +813,13 @@ Focused on professional domains like app architecture, test-driven development, 
 
 ---
 
-# 🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!  
 If you have a great book suggestion or better resource, fork the repo and submit a pull request.
 
 ---
 
-# 📜 License
+## 📜 License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and share with attribution.
 
