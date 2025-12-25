@@ -391,18 +391,19 @@ These books explore the dark corners, hidden secrets, and high-performance optim
 These books are for those new to C++ and provide a solid, comprehensive foundation in the language.
 
 - [**C++ Primer**](https://drive.google.com/file/d/12jdDj0WcFLwnSkSGy1y9eAkcF81UwKqg/view?usp=sharing) (*5th Edition*)
-- [**Programming: Principles and Practice Using C++**](https://drive.google.com/file/d/1zxnraVqHaha9O_SqvJFOomhYXpCOWsnZ/view?usp=drive_link) (*2nd Edition*)
-- [**A Tour of C++**](https://drive.google.com/file/d/1LAppZ_ax6b9Ia32VgKanCHfeN85zAlPd/view?usp=drive_link) (*3rd Edition*)
-- [**Accelerated C++: Practical Programming by Example**](https://drive.google.com/file/d/19YC2rORanRY5HRAzW-VIgYnjFqiz3TX1/view?usp=drive_link) 
-- [**Starting Out with C++: From Control Structures through Objects**](https://drive.google.com/file/d/1BFj1zJckgRuj2BfBqONFt3mLAVkW5rBQ/view?usp=drive_link) (*9th Edition*)
-- [**C++ for Dummies**](https://drive.google.com/file/d/1df0ymsRtfcyuUZptkqnSwH8NsNP8lIku/view?usp=drive_link) (*5th Edition*)
+- [**Programming: Principles and Practice Using C++**](https://drive.google.com/file/d/1dE4BXb4RvcJd3Ve1gCpATUjMf17X8b4a/view?usp=sharing) (*3rd Edition*)
+- [**Starting Out with C++: From Control Structures through Objects**](https://drive.google.com/file/d/1NLM9okwAtcCPd85vr4B4YzGAtsuUk03O/view?usp=sharing) (*10th Edition*)
+- [**C++ for Dummies**](https://drive.google.com/file/d/10uZ7vzYpzYorDAF1nqZcRnVuMZ0wBnUB/view?usp=sharing) (*7th Edition*)
 
 
 ## For Intermediate Developers
 
 These books are essential for moving beyond the basics and learning to write effective, modern, and idiomatic C++ code.
 
-- [**Effective Modern C++**](https://drive.google.com/file/d/1UzUiCCgxct9YILYzv3nsf9VeMAb3esVQ/view?usp=drive_link) 
+- [**Effective C++**](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/) (*3rd Edition)
+- [**Professional C++**](https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394217199) (**6th Edition - 2024**)
+- [**C++ Core Guidelines Explained**](https://www.pearson.com/en-us/subject-catalog/p/c-core-guidelines-explained-best-practices-for-modern-c/P200000009536/)
+- [**A Tour of C++**](https://drive.google.com/file/d/1LAppZ_ax6b9Ia32VgKanCHfeN85zAlPd/view?usp=drive_link) (*3rd Edition*)
 - [**The C++ Programming Language**](https://drive.google.com/file/d/1-xjwSQI9zqn8ffkfVQs4eSgN74RRLXPc/view?usp=drive_link) (*4th Edition*)
 - [**C++ Crash Course**](https://drive.google.com/file/d/1vscPmCSjXSzwVohgZPpFwKW1zpj2T4MW/view?usp=drive_link) (*1st Edition*)
 - [**100 C++ Mistakes and How to Avoid Them**](https://drive.google.com/file/d/1_ym2s8PFLtwnYC3BXnO0VKgw6Cop6RNd/view?usp=drive_link) (*2025 Edition*)
