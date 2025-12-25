@@ -266,14 +266,13 @@ A massive, detailed guide that is best used as a companion throughout your learn
 ## For Beginners
 
 These books are designed for those with no prior C# experience and provide a solid foundation in the language and the .NET ecosystem.
-
+- [**Head First C#**](https://drive.google.com/file/d/136qGvMKTc6sU_p5BoC059BYDOA40DTAY/view?usp=sharing) (*5th Edition*)
+- [**Essential C# 12.0**](https://drive.google.com/file/d/1YuMTOO4spmi2fZ8Da_Lo2uFws7refkRS/view?usp=sharing) (*8th Edition*)
 - [**C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals**](https://drive.google.com/file/d/1C_KFBNQQHAdcsnx5xYtH4SkdnXOxgrNb/view?usp=sharing) (*9th Edition - 2024*)
 - [**C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals**](https://www.oreilly.com/library/view/c-14-and/9781836206637/) (*10th Edition - 2025*)
 - [**The C# Player's Guide**](https://drive.google.com/file/d/1WJ-FnkSbmiPaBKuEnQs3sDR7G5pSWP7R/view?usp=drive_link) (*5th Edition*)
 - [**LEARN C Sharp**](https://books.google.com/books/about/LEARN_C_2025_Edition.html?id=PS47EQAAQBAJ) (*2025 Edition*)
-- [**Head First C#**](https://drive.google.com/file/d/136qGvMKTc6sU_p5BoC059BYDOA40DTAY/view?usp=sharing) (*5th Edition*)
 - [**Illustrated C#**](https://drive.google.com/file/d/1HuGFTlncXsmJv-s2YJ0KPrH8lOgMMpZy/view?usp=drive_link) (*5th Edition*)
-- [**Pro C# 10 with .NET 6**](https://drive.google.com/file/d/1OaBsJv0ddWMGXXQAmGQ1dSFl3BfS6cBp/view?usp=drive_link) (*11th Edition*)
 
 ## For Intermediate Developers
 
@@ -281,9 +280,10 @@ These books will help you move beyond syntax to truly understand the language's 
 
 - [**C# in Depth**](https://drive.google.com/file/d/1Hb38MBdK_Bh8k1J10QBpWYGl_mzVUuSU/view?usp=sharing) (*4th Edition*)
 - [**Effective C#**](https://drive.google.com/file/d/14d4FYI3Wcm9_LQ20IO0uCo6ivp89J6aZ/view?usp=sharing) (*3rd Edition*)
-- [**Dependency Injection Principles, Practices, and Patterns**](https://drive.google.com/file/d/16cPDfWX5f2rCIJfidvoTcno7wddfti9c/view?usp=sharing) (*2nd Edition*)
 - [**Concurrency in C# Cookbook**](https://drive.google.com/file/d/1hg-dVHC4KuQLWBWkRfYtdjO7O3CCdIod/view?usp=sharing) (*2nd Edition*)
+- [**Unit Testing Principles, Practices, and Patterns**](https://drive.google.com/file/d/1Lv1UGiFBcxAb-i8kv5oaryyjZx7AN28x/view?usp=sharing) (*2020 Edition*)
 - [**Pro ASP.NET Core 6**](https://drive.google.com/file/d/1w8qf77yV5ym7_4ocp1-chph_W13B54GU/view?usp=drive_link) (*9th Edition*)
+- [**Pro C# 10 with .NET 6**](https://drive.google.com/file/d/1OaBsJv0ddWMGXXQAmGQ1dSFl3BfS6cBp/view?usp=drive_link) (*11th Edition*)
 - [**Clean Code in C#**](https://drive.google.com/file/d/13dz9fR_h1wQDJJgwjP-8H59-nO-7YOQW/view?usp=sharing) (*2020 Edition*)
 - [**Software Architecture with C# 12 and .NET 8**](https://drive.google.com/file/d/1jZaFFn4_qIQsz5d9nmEKpRI5rnPUQiK-/view?usp=sharing) (*4th Edition*)
 - [**Pragmatic Microservices with C# and Azure**](https://drive.google.com/file/d/1b3wLWqNhjiw9p1HGvOWQ2zMP1LBCHG6B/view?usp=sharing) (*2024 Release*)
@@ -294,17 +294,23 @@ Dive deep into the .NET runtime, software architecture, and advanced programming
 
 - [**Pro .NET Memory Management**](https://drive.google.com/file/d/1kEzxEZ_5taHWLD00k5DXeOqKDxyNr4N8/view?usp=sharing) (*2nd edition*)
 - [**Writing High-Performance .NET Code**](https://drive.google.com/file/d/1dQHCqAGkhSRj0X4oS-MhBXYXHXZfMFBp/view?usp=sharing) (*2nd Edition*)
+- [**More Effective C#: 50 Specific Ways to Improve Your C#**](https://drive.google.com/file/d/13qxXSKIldJv2_DJ_DZ8aJWr8sGo7hoZI/view?usp=sharing) (*2nd Edition*)
+- [**xUnit Test Patterns: Refactoring Test Code**](https://drive.google.com/file/d/1DK8MCJy8l0XJFWgNRJYncPjDw789V0b_/view?usp=sharing) (*2007 Edition*)
 - [**CLR via C#**](https://drive.google.com/file/d/1r-J9sbVlaUI0pSUE7PYB7246ny-AySzg/view?usp=drive_link) (*4th Edition*)
+- [**Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries**](https://drive.google.com/file/d/1WMBOFyNCSMf59IPeOm_0dIrhoB6iX-aj/view?usp=sharing) (*3rd Edition*)
+- [**The Art of Unit Testing**](https://drive.google.com/file/d/13Nxds-pL6Fg-Lif-Sd-xZwMJrEXDgk0p/view?usp=drive_link) (*2nd Edition*)
 - [**Adaptive Code: Agile coding with design patterns and SOLID principles**](https://drive.google.com/file/d/1pMo5PKi5E8AtZEngURw8vzjTtDt3KJ8b/view?usp=drive_link) (*2nd Edition*)
+- [**Dependency Injection Principles, Practices, and Patterns**](https://drive.google.com/file/d/16cPDfWX5f2rCIJfidvoTcno7wddfti9c/view?usp=sharing) (*2nd Edition*)
 - [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://drive.google.com/file/d/1mlpGfuUPmPq3MDAKaVlpnYoDqDrJs7P4/view?usp=drive_link) (*First & only edition*)
 
 ## For Specialized Fields
 
 Focus on applying C# to specific professional domains like game development or microservices.
 
+- [**Architecting Modern Web Applications with ASP.NET Core and Azure**](https://drive.google.com/file/d/1gWmpoqgg5L178-g2YpnoVsFmnMR7C0jH/view?usp=sharing) (*Edition - 2022*)
 - [**Building AI Applications with Microsoft Semantic Kernel**](https://drive.google.com/file/d/1e8AtxOcnxiaBW40axnI3GS-xd2qvLsqI/view?usp=sharing) (*2024 Release*)
 - [**Web Development with Blazor**](https://drive.google.com/file/d/1EwK-Jxecv7-xTvVR-GZsU8kaQ2GzGasN/view?usp=sharing) (*3rd Edition - Updated for .NET 9*)
-- [**The Art of Unit Testing**](https://drive.google.com/file/d/13Nxds-pL6Fg-Lif-Sd-xZwMJrEXDgk0p/view?usp=drive_link) (*2nd Edition*)
+- [**.NET Internals Cookbook**](https://www.goodreads.com/book/show/45724176-net-internals-cookbook)
 - [**Unity in Action**](https://drive.google.com/file/d/1YwwWXEcsUGCNa1U262VqGroRhCaCWUYM/view?usp=sharing) (*3rd Edition*)
 - [**ASP.NET Core in Action**](https://drive.google.com/file/d/16NS1iVatak_dfrXA0ziSl7cVdy_DGWWH/view?usp=sharing) (*3rd Edition*)
 - [**Entity Framework Core in Action**](https://drive.google.com/file/d/1L04I5D4b6vZJwymZ5jDoSk1XRqaA2var/view?usp=sharing) (*2nd Edition*)
@@ -314,6 +320,7 @@ Focus on applying C# to specific professional domains like game development or m
 
 These guides are perfect for quick lookups and as detailed companions throughout your career.
 
+- [**ASP.NET Core Architecture (Microsoft Docs)**](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/)
 - [**C# 12 in a Nutshell: The Definitive Reference**](https://drive.google.com/file/d/13or6QeIIosQcKZGIGoGE7M2Ki0TDeZ5d/view?usp=sharing) (*2023 Edition*)
 - [**Functional Programming in C#**](https://drive.google.com/file/d/1o-BwSGn2l8tXFiRYOoCGxHGS263pItm3/view?usp=sharing) (*6th early release - 2024 Edition*)
 - [**Programming C# 12**](https://drive.google.com/file/d/1LQCi_6puixk5lUEG4kJO90N-q0Men6Xa/view?usp=sharing) (*2024 Edition*)
@@ -327,41 +334,52 @@ These guides are perfect for quick lookups and as detailed companions throughout
 
 These books provide the foundation for manual memory management, pointer logic, and procedural programming.
 
-- [**The C Programming Language**](LINK) (*2nd Edition*)
-- [**C Programming: A Modern Approach**](LINK) (*2nd Edition*)
-- [**C Programming Absolute Beginner's Guide**](LINK) (*3rd Edition*)
-- [**Head First C**](LINK) (*1st Edition*)
-- [**C Primer Plus**](LINK) (*6th Edition*)
+- [**C Programming: A Modern Approach**](https://drive.google.com/file/d/1_RX40f3AH4aZSgcQ7pydFdvDD-BIpaC4/view?usp=sharing) (*2nd Edition*)
+- [**Head First C**](https://drive.google.com/file/d/1KNHMFJp6Czqlqj9RpQw4dvXRwlAS90t6/view?usp=sharing)
+- [**The C Programming Language**](https://drive.google.com/file/d/1uZglJUCeolG1Gr3qpDKNvhIEnKPC5TlI/view?usp=sharing) (*2nd Edition*)
+- [**C Programming Absolute Beginner's Guide**](https://drive.google.com/file/d/1cyrNNWy-BJJfyhhtYaDUR5fkWtNVHFTb/view?usp=sharing) (*3rd Edition*)
+- [**C Primer Plus**](https://drive.google.com/file/d/1SFQaL3S0fS1d0xhzXtIP21mRLcIvZtls/view?usp=sharing) (*6th Edition*)
 
-## For Intermediate & Systems Developers
+## For Intermediate Developers
 
 Once you know the syntax, these books teach you how to build "real" software like operating systems, compilers, and drivers.
 
-- [**Modern C**](https://gustedt.gitlabpages.inria.fr/modern-c/) (*Latest Edition*)
-- [**21st Century C**](LINK) (*2nd Edition*)
-- [**Low-Level Programming**](LINK) (*1st Edition*)
-- [**Intermediate C Programming**](LINK) (*1st Edition*)
+- [**Learn C the Hard Way**](https://drive.google.com/file/d/1KluQxU8LCMQpfEVLOkNDwndMZSU2AGGG/view?usp=sharing) (*2015 Edition*)
+- [**Understanding and Using C Pointers**](https://drive.google.com/file/d/1pKq8N5EaOl3H_BaZW61Tae6Ibk3deuXz/view?usp=sharing) (*2013 Edition*)
+- [**Modern C**](https://drive.google.com/file/d/150CoeAbvVpM51AfY2i6F0MSE1gzn1ndQ/view?usp=sharing) (*3rd Edition*)
+- [**Low-Level Programming**](https://drive.google.com/file/d/1A8DcvSW573IZmB7fdgZm0pIqjyoo6ORC/view?usp=sharing) (*First & only edition*)
+- [**Intermediate C Programming**](https://drive.google.com/file/d/1TT4ZbKAT29Lzup2hFLUyt3zLhB-ap-9X/view?usp=sharing) (*1st Edition*)
 
-## For Advanced Programmers & "Gurus"
+
+## For Advanced Programmers
 
 These books explore the dark corners, hidden secrets, and high-performance optimizations of the language.
 
-- [**Expert C Programming: Deep C Secrets**](LINK) (*1st Edition*)
-- [**C Interfaces and Implementations**](LINK) (*1st Edition*)
-- [**Effective C**](LINK) (*1st Edition*)
-- [**The Standard C Library**](LINK) (*1st Edition*)
+- [**C23 Standard (ISO/IEC 9899:2024)**](https://annas-archive.org/slow_download/aee9796ac090fdc8a93fc654f32020f3/0/0) (*Edition 5, 2024*)
+- [**The Standard C Library**](https://drive.google.com/file/d/1MWm8vrEb3mhj5b-N2U2vM9wXQYvvUcAV/view?usp=sharing) (*First & only edition*)
+- [**C Interfaces and Implementations**](https://drive.google.com/file/d/1QmZtbqY_tS7RUtMWXsMDboY2lxkJUJJX/view?usp=sharing) (*1994 Edition*)
+- [**21st Century C**](https://drive.google.com/file/d/1tpW5GjrvJe1VyXR82DDKhOLkz_lj22sa/view?usp=sharing) (*2nd Edition*)
+- [**Effective C: An Introduction to Professional C Programming**](https://drive.google.com/file/d/14kFQJ7kX_xC2UYqV8Tgegc7UgmySKI4i/view?usp=sharing) (*2020 Release) 
+- [**Expert C Programming: Deep C Secrets**](https://drive.google.com/file/d/13ZGiz-umwxXek9tmBBJ5vDtHl9DMmdi8/view?usp=sharing) (*1994 Edition*)
 
-## For Specialized Fields (Embedded & Networking)
+## For Specialized Fields 
 
-- [**Programming Embedded Systems in C**](LINK) (*2nd Edition*)
-- [**Hands-On Network Programming with C**](https://www.oreilly.com/library/view/hands-on-network-programming/9781789349863/8d268c5f-d3e2-4a30-9da5-2697ac4e11af.xhtml) (*1st Edition*)
-- [**Linux Kernel Development**](LINK) (*3rd Edition*)
-- [**The Art of Debugging with GDB, DDD, and Eclipse**](LINK) (*1st Edition*)
-- [**Introduction to High Performance Computing for Scientists and Engineers**](LINK) (*1st Edition*)
+- [**TCP/IP Illustrated, Volume 1: The Protocols**]() (*2nd Edition*)
+- [**Embedded C Coding Standard (BARR-C:2018)**]()
+- [**Extreme C: Taking the C Language to Its Limits**]()
+- [**Advanced Programming in the UNIX Environment**]() (*APUE*)
+- [**The Linux Programming Interface**]()
+- [**Making Embedded Systems**]()
+- [**Computer Systems: A Programmer's Perspective**]() (**3rd Edition**)
+- [**Programming Embedded Systems in C**](https://drive.google.com/file/d/1xTBJiMYTA--pbFGiW41G26SJ9gOQePSg/view?usp=sharing) (*2nd Edition*)
+- [**Hands-On Network Programming with C**]() (*1st Edition*)
+- [**Linux Kernel Development**](https://drive.google.com/file/d/1NxEeBNOV11BI1LuPDaVXPThLsJltfY02/view?usp=sharing) (*3rd Edition*)
+- [**The Art of Debugging with GDB, DDD, and Eclipse**](https://drive.google.com/file/d/1LYBjxn9hSQmu7TqPEEDTT5qGs6qMfVjL/view?usp=sharing) (*1st Edition*)
+- [**Introduction to High Performance Computing for Scientists and Engineers**](https://drive.google.com/file/d/1Cx450Eu8x9X6Nfor2gaeLuyRbEl5xJBn/view?usp=sharing) (*1st Edition*)
 
 ## Comprehensive References
 
-- [**C in a Nutshell**](LINK) (*2nd Edition*)
+- [**C in a Nutshell**](LINK) (*3rd Edition*)
 - [**Beej's Guide to C Programming**](https://beej.us/guide/bgc/) (*Online Resource*)
 
 ---
