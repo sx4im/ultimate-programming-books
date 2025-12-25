@@ -267,8 +267,11 @@ A massive, detailed guide that is best used as a companion throughout your learn
 
 These books are designed for those with no prior C# experience and provide a solid foundation in the language and the .NET ecosystem.
 
+- [**C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals**](https://drive.google.com/file/d/1C_KFBNQQHAdcsnx5xYtH4SkdnXOxgrNb/view?usp=sharing) (*9th Edition - 2024*)
+- [**C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals**](https://www.oreilly.com/library/view/c-14-and/9781836206637/) (*10th Edition - 2025*)
 - [**The C# Player's Guide**](https://drive.google.com/file/d/1WJ-FnkSbmiPaBKuEnQs3sDR7G5pSWP7R/view?usp=drive_link) (*5th Edition*)
-- [**Head First C#**](https://drive.google.com/file/d/1mZWdD8qCBBzyasC2qdbVnBKoKlZ-DD1w/view?usp=drive_link) (*4th Edition*)
+- [**LEARN C Sharp**](https://books.google.com/books/about/LEARN_C_2025_Edition.html?id=PS47EQAAQBAJ) (*2025 Edition*)
+- [**Head First C#**](https://drive.google.com/file/d/136qGvMKTc6sU_p5BoC059BYDOA40DTAY/view?usp=sharing) (*5th Edition*)
 - [**Illustrated C#**](https://drive.google.com/file/d/1HuGFTlncXsmJv-s2YJ0KPrH8lOgMMpZy/view?usp=drive_link) (*5th Edition*)
 - [**Pro C# 10 with .NET 6**](https://drive.google.com/file/d/1OaBsJv0ddWMGXXQAmGQ1dSFl3BfS6cBp/view?usp=drive_link) (*11th Edition*)
 
@@ -276,36 +279,45 @@ These books are designed for those with no prior C# experience and provide a sol
 
 These books will help you move beyond syntax to truly understand the language's features and write effective, professional code.
 
-- [**C# in Depth**](https://drive.google.com/file/d/1Hb38MBdK_Bh8k1J10QBpWYGl_mzVUuSU/view?usp=drive_link) (*4th Edition*)
-- [**Effective C#**](https://drive.google.com/file/d/14d4FYI3Wcm9_LQ20IO0uCo6ivp89J6aZ/view?usp=drive_link) (*3rd Edition*)
-- [**Concurrency in C# Cookbook**](https://drive.google.com/file/d/1hg-dVHC4KuQLWBWkRfYtdjO7O3CCdIod/view?usp=drive_link) (*2nd Edition*)
+- [**C# in Depth**](https://drive.google.com/file/d/1Hb38MBdK_Bh8k1J10QBpWYGl_mzVUuSU/view?usp=sharing) (*4th Edition*)
+- [**Effective C#**](https://drive.google.com/file/d/14d4FYI3Wcm9_LQ20IO0uCo6ivp89J6aZ/view?usp=sharing) (*3rd Edition*)
+- [**Dependency Injection Principles, Practices, and Patterns**](https://drive.google.com/file/d/16cPDfWX5f2rCIJfidvoTcno7wddfti9c/view?usp=sharing) (*2nd Edition*)
+- [**Concurrency in C# Cookbook**](https://drive.google.com/file/d/1hg-dVHC4KuQLWBWkRfYtdjO7O3CCdIod/view?usp=sharing) (*2nd Edition*)
 - [**Pro ASP.NET Core 6**](https://drive.google.com/file/d/1w8qf77yV5ym7_4ocp1-chph_W13B54GU/view?usp=drive_link) (*9th Edition*)
+- [**Clean Code in C#**](https://drive.google.com/file/d/13dz9fR_h1wQDJJgwjP-8H59-nO-7YOQW/view?usp=sharing) (*2020 Edition*)
+- [**Software Architecture with C# 12 and .NET 8**](https://drive.google.com/file/d/1jZaFFn4_qIQsz5d9nmEKpRI5rnPUQiK-/view?usp=sharing) (*4th Edition*)
+- [**Pragmatic Microservices with C# and Azure**](https://drive.google.com/file/d/1b3wLWqNhjiw9p1HGvOWQ2zMP1LBCHG6B/view?usp=sharing) (*2024 Release*)
 
 ## For Advanced Programmers
 
 Dive deep into the .NET runtime, software architecture, and advanced programming techniques.
 
+- [**Pro .NET Memory Management**](https://drive.google.com/file/d/1kEzxEZ_5taHWLD00k5DXeOqKDxyNr4N8/view?usp=sharing) (*2nd edition*)
+- [**Writing High-Performance .NET Code**](https://drive.google.com/file/d/1dQHCqAGkhSRj0X4oS-MhBXYXHXZfMFBp/view?usp=sharing) (*2nd Edition*)
 - [**CLR via C#**](https://drive.google.com/file/d/1r-J9sbVlaUI0pSUE7PYB7246ny-AySzg/view?usp=drive_link) (*4th Edition*)
-- [**Dependency Injection**](https://drive.google.com/file/d/1L77S_X12NLTZr3yjcZDtI2jSj8ZUpN_n/view?usp=drive_link) (*2nd Edition*)
-- **[Adaptive Code: Agile coding with design patterns and SOLID principles](https://drive.google.com/file/d/1pMo5PKi5E8AtZEngURw8vzjTtDt3KJ8b/view?usp=drive_link)** (*2nd Edition*)
-- **[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://drive.google.com/file/d/1mlpGfuUPmPq3MDAKaVlpnYoDqDrJs7P4/view?usp=drive_link)** (*Latest Edition*)
+- [**Adaptive Code: Agile coding with design patterns and SOLID principles**](https://drive.google.com/file/d/1pMo5PKi5E8AtZEngURw8vzjTtDt3KJ8b/view?usp=drive_link) (*2nd Edition*)
+- [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://drive.google.com/file/d/1mlpGfuUPmPq3MDAKaVlpnYoDqDrJs7P4/view?usp=drive_link) (*First & only edition*)
 
 ## For Specialized Fields
 
 Focus on applying C# to specific professional domains like game development or microservices.
 
-- [**The Art of Unit Testing**](https://drive.google.com/file/d/13Nxds-pL6Fg-Lif-Sd-xZwMJrEXDgk0p/view?usp=drive_link) (*3rd Edition*)
-- [**Unity in Action**](https://drive.google.com/file/d/1LMiwpbbyeGVnHcHf37zYzxHgPa8zLvPR/view?usp=drive_link) (*2nd Edition*)
-- [**Microservices in .NET core**](https://drive.google.com/file/d/1rc8RcdBMoNa-xcfzEVACzPL5FBAEUAp4/view?usp=drive_link) (*Latest Edition*)
+- [**Building AI Applications with Microsoft Semantic Kernel**](https://drive.google.com/file/d/1e8AtxOcnxiaBW40axnI3GS-xd2qvLsqI/view?usp=sharing) (*2024 Release*)
+- [**Web Development with Blazor**](https://drive.google.com/file/d/1EwK-Jxecv7-xTvVR-GZsU8kaQ2GzGasN/view?usp=sharing) (*3rd Edition - Updated for .NET 9*)
+- [**The Art of Unit Testing**](https://drive.google.com/file/d/13Nxds-pL6Fg-Lif-Sd-xZwMJrEXDgk0p/view?usp=drive_link) (*2nd Edition*)
+- [**Unity in Action**](https://drive.google.com/file/d/1YwwWXEcsUGCNa1U262VqGroRhCaCWUYM/view?usp=sharing) (*3rd Edition*)
+- [**ASP.NET Core in Action**](https://drive.google.com/file/d/16NS1iVatak_dfrXA0ziSl7cVdy_DGWWH/view?usp=sharing) (*3rd Edition*)
+- [**Entity Framework Core in Action**](https://drive.google.com/file/d/1L04I5D4b6vZJwymZ5jDoSk1XRqaA2var/view?usp=sharing) (*2nd Edition*)
+- [**Microservices in .NET core**](https://drive.google.com/file/d/1sGDxI8N22zErgOzhFUGB8t4_cRCF0yEn/view?usp=sharing) (*2nd Edition*)
 
 ## Comprehensive References
 
 These guides are perfect for quick lookups and as detailed companions throughout your career.
 
-- [**Functional Programming in C#**](https://drive.google.com/file/d/1o-BwSGn2l8tXFiRYOoCGxHGS263pItm3/view?usp=drive_link) (*2024 Edition*)
-- [**Programming C# 10**](https://drive.google.com/file/d/1xFtpxch9KCXJmcO5GYsVpt5SFZpfCAEE/view?usp=drive_link) (*Latest Edition*)
-- [**C# 10 in a Nutshell**](https://drive.google.com/file/d/1pBYpV_Zq2TMYkZGY5t7wSThNpQMfxgF-/view?usp=drive_link) (*2022 Edition*)
-- [**C# 10 Pocket Reference**](https://drive.google.com/file/d/1huaDdAj_-qDJkx15WT1XQvgai9OsZuhz/view?usp=drive_link) 
+- [**C# 12 in a Nutshell: The Definitive Reference**](https://drive.google.com/file/d/13or6QeIIosQcKZGIGoGE7M2Ki0TDeZ5d/view?usp=sharing) (*2023 Edition*)
+- [**Functional Programming in C#**](https://drive.google.com/file/d/1o-BwSGn2l8tXFiRYOoCGxHGS263pItm3/view?usp=sharing) (*6th early release - 2024 Edition*)
+- [**Programming C# 12**](https://drive.google.com/file/d/1LQCi_6puixk5lUEG4kJO90N-q0Men6Xa/view?usp=sharing) (*2024 Edition*)
+- [**C# 12 Pocket Reference**](https://drive.google.com/file/d/12L3Ktd2UTVrpnrQzyqQgEY6WXSvuULnj/view?usp=sharing) (*2023 Edition*)
       
 ---
 
