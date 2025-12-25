@@ -215,7 +215,7 @@ Once you understand the syntax, these books will teach you how to write robust, 
 
 These books tackle complex topics like concurrency, performance, and application architecture.
 - [**Test-Driven Development: By Example**](https://drive.google.com/file/d/1zqmpNXHIthz6HqqEG6162Oa1rZLpftLV/view?usp=sharing) (*1st Edition*)
-- [**Effective Unit Testing**](https://www.manning.com/books/effective-unit-testing)
+- [**Effective Unit Testing**](https://drive.google.com/file/d/15eohtjlEiShueNmnNiJX9FWXhUXm4IhU/view?usp=sharing) (*First & only edition*)
 - [**Oracle Certified Professional Java SE 21 Developer Study**](https://drive.google.com/file/d/18TQlpzzIgXYg0Y6jELXUCFAvmjjk5tDw/view?usp=sharing) (*Official Modern Reference*)
 - [**Patterns of Enterprise Application Architecture (PEAA)**](https://drive.google.com/file/d/1yvaVkOGWxvZXTbgWLvQXfU3L8mxTUF-D/view?usp=sharing) (*First & only edition*)
 - [**Java Concurrency in Practice**](https://drive.google.com/file/d/1JEkaIZsE2iG0ea6-6nk9VGwzG0tHKX0a/view?usp=drive_link) (*First & only edition*) 
@@ -224,14 +224,14 @@ These books tackle complex topics like concurrency, performance, and application
 - [**Modern Java in Action**](https://drive.google.com/file/d/1sO6NWk89jc-_5xXbCwyl7f0qqX2l2p4b/view?usp=sharing) (*First & only edition*)
 - [**Java Puzzlers: Traps, Pitfalls, and Corner Cases**](https://drive.google.com/file/d/1NvtCmqNS270XmtOjtUuPU55CqLvEgFSK/view?usp=sharing) (*First & only edition*)
 - [**Release It!: Design and Deploy Production-Ready Software**](https://drive.google.com/file/d/1KzGpznPxWJFKrxtJbAQIR6Pr0GvYq0G_/view?usp=sharing) (*2nd Edition*)
-- [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/) (*1994 edition*)
+- [**Design Patterns: Elements of Reusable Object-Oriented Software**]() (*1994 edition*)
 
 ## For Specialized Fields
 
 Focus on applying Java to a specific professional domain, particularly with the Spring Framework.
 
 - [**Java Performance Companion**](https://drive.google.com/file/d/10nMOO0E_LCEpb-IRnrABJMkEq-46ntR6/view?usp=sharing) (*First & only edition*)
-- [**Java Memory Management**]() (*First & only edition*)
+- [**Java Memory Management**](https://drive.google.com/file/d/1KVVgtKCjVILnPW-H6vOPs9mobEiO0xID/view?usp=sharing) (*First & only edition*)
 - [**Spring Boot in Practice**](https://drive.google.com/file/d/15p73C6avjiFS5VwIf2g9a0rKxuzAx9gR/view?usp=sharing) (*2022 Edition*)
 - [**Spring in Action**](https://drive.google.com/file/d/1e-gRL-z2JlTRmSJ4c17mgTUFgurl_cqe/view?usp=drive_link) (*6th Edition*)
 - [**Optimizing Cloud Native Java**](https://drive.google.com/file/d/1Amh1f_WCTCFIdiD9P9xaPHKgEzC6X1SQ/view?usp=sharing) (*2nd Edition*)
@@ -250,11 +250,11 @@ Focus on applying Java to a specific professional domain, particularly with the 
 
 A massive, detailed guide that is best used as a companion throughout your learning journey.
 
-- [**The Art of Multiprocessor Programming**](https://www.elsevier.com/books/the-art-of-multiprocessor-programming/herlihy/978-0-12-397337-5) (*Revised Edition*)
-- [**Modern Concurrency in Java: Virtual Threads, Structured Concurrency, and Beyond**]() (*2025 Release*)
-- [**Java Structured Concurrency**](https://www.packtpub.com/en-us/product/java-structured-concurrency-9781806105038) (**2025 Edition**)
-- [**Virtual Threads, Structured Concurrency, and Scoped Values**](https://link.springer.com/book/10.1007/979-8-8688-0499-1) (**2024/2025**)
-- [**Mastering Java Concurrency: Threads, Synchronization, and Parallel Processing**](LINK) (**2025 Edition**)
+- [**The Art of Multiprocessor Programming**](https://drive.google.com/file/d/168IKLmFzRpiaVvRA5lHXvTMXc8g_rYTf/view?usp=sharing) (*2nd Edition*)
+- [**Modern Concurrency in Java: Virtual Threads, Structured Concurrency, and Beyond**](https://drive.google.com/file/d/1yHaxb6huZpRhDbe5bywR8VIwNziu1n4k/view?usp=sharing) (*2025 Release*)
+- [**Java Structured Concurrency**](https://www.packtpub.com/en-us/product/java-structured-concurrency-9781806105038) (*2025 Edition*)
+- [**Virtual Threads, Structured Concurrency, and Scoped Values**](https://drive.google.com/file/d/1celv84qkw8DPFHo8EZegSN8i3yzO8y3i/view?usp=sharing) (*2024 Edition*)
+- [**Mastering Java Concurrency: Threads, Synchronization, and Parallel Processing**](https://www.amazon.com/Mastering-Java-Concurrency-Synchronization-Processing-ebook/dp/B0DHTKSQJQ) (*2025 Edition*)
 - [**Java: The Complete Reference**](https://drive.google.com/file/d/1auXGujIKKFyw0WU9xB07LyX4Oz2h_yPb/view?usp=sharing) (*13th Edition*)
 - [**Java in a Nutshell**](https://drive.google.com/file/d/1qIPTpVltTi02m6QdRvynIDtgr0HVE80n/view?usp=sharing) (*8th Edition*)
 - [**Java Pocket Guide**](https://drive.google.com/file/d/11F1OMndhAHvHTLXDd2HbU4KvLk2JZtWt/view?usp=drive_link) (*5th Edition*)
