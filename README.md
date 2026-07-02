@@ -49,10 +49,6 @@
 
 ---
 
-### ⭐ Before You Download
-*Please **support this project** by giving it a star on GitHub.* 
-
----
 
 <a id="python"></a>
 # 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python
